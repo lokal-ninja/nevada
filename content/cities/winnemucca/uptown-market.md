@@ -1,0 +1,4 @@
+---
+title: "Uptown Market"
+url: /winnemucca/uptown-market/
+---
