@@ -1,6 +1,6 @@
 ---
 title: Ely
 url: /ely/
-latitude: 39.246935400000005
-longitude: -114.8951016
+latitude: 39.2474858
+longitude: -114.8937518
 ---
