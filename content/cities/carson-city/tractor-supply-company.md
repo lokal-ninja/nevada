@@ -1,0 +1,4 @@
+---
+title: "Tractor Supply Company"
+url: /carson-city/tractor-supply-company/
+---
