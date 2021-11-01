@@ -1,5 +1,5 @@
 ---
 title: "Dino Mart"
-url: /paradise-hill/dino-mart-2/
+url: /paradise-valley/dino-mart/
 shop: convenience
 ---
