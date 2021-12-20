@@ -1,6 +1,6 @@
 ---
 title: North Las Vegas
 url: /north-las-vegas/
-latitude: 
-longitude: 
+latitude: 36.2005843
+longitude: -115.12158400000001
 ---
