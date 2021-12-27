@@ -1,5 +1,5 @@
 ---
 title: "JJ's Cleaners"
 url: /sparks/jjs-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

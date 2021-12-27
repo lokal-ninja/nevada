@@ -1,6 +1,6 @@
 ---
 title: Carson City
 url: /carson-city/
-latitude: 39.1702862
-longitude: -119.76680560000001
+latitude: 39.165
+longitude: -119.767
 ---

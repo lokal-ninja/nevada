@@ -1,6 +1,6 @@
 ---
 title: Overton
 url: /overton/
-latitude: 36.540734400000005
-longitude: -114.4429886
+latitude: 36.541
+longitude: -114.444
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gardnerville
 url: /gardnerville/
-latitude: 38.9415062
-longitude: -119.749351
+latitude: 38.938
+longitude: -119.739
 ---

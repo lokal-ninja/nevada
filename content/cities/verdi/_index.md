@@ -1,6 +1,6 @@
 ---
 title: Verdi
 url: /verdi/
-latitude: 39.5182427
-longitude: -119.98881130000001
+latitude: 39.52
+longitude: -119.983
 ---

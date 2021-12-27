@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /reno/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

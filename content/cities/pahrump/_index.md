@@ -1,6 +1,6 @@
 ---
 title: Pahrump
 url: /pahrump/
-latitude: 36.2083012
-longitude: -115.98391280000001
+latitude: 36.205
+longitude: -116.013
 ---

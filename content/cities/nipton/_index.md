@@ -1,6 +1,6 @@
 ---
 title: Nipton
 url: /nipton/
-latitude: 
-longitude: 
+latitude: 35.606
+longitude: -115.39
 ---

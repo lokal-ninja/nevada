@@ -1,6 +1,6 @@
 ---
 title: Goldfield
 url: /goldfield/
-latitude: 37.7086935
-longitude: -117.2366315
+latitude: 37.713
+longitude: -117.235
 ---

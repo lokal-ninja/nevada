@@ -1,6 +1,6 @@
 ---
 title: Moapa
 url: /moapa/
-latitude: 36.675805000000004
-longitude: -114.6208232
+latitude: 36.5
+longitude: -114.76
 ---

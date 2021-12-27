@@ -1,5 +1,5 @@
 ---
 title: "Dino Mart"
 url: /elko/dino-mart/
-shop: convenience
+shop: Lebensmittel
 ---

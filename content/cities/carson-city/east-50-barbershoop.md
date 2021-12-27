@@ -1,5 +1,5 @@
 ---
 title: "East 50 Barbershoop"
 url: /carson-city/east-50-barbershoop/
-shop: hairdresser
+shop: Friseur
 ---
