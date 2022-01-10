@@ -1,5 +1,5 @@
 ---
 title: "Gary's Total Auto Repair"
 url: /elko/garys-total-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

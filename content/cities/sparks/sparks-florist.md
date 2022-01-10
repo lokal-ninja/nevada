@@ -1,5 +1,5 @@
 ---
 title: "Sparks Florist"
 url: /sparks/sparks-florist/
-shop: Blumen
+shop: florist
 ---

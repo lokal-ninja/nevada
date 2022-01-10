@@ -1,5 +1,5 @@
 ---
 title: "See's Candies"
 url: /sparks/sees-candies/
-shop: Schokolade
+shop: chocolate
 ---

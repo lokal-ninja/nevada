@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /sparks/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

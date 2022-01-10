@@ -1,5 +1,5 @@
 ---
 title: "Maria's Market"
 url: /las-vegas/marias-market/
-shop: Supermarkt
+shop: supermarket
 ---

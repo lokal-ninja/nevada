@@ -1,5 +1,5 @@
 ---
 title: "nail story"
 url: /las-vegas/nail-story/
-shop: Kosmetik
+shop: beauty
 ---

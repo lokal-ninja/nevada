@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /elko/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

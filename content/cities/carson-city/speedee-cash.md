@@ -1,5 +1,5 @@
 ---
 title: "Speedee Cash"
 url: /carson-city/speedee-cash/
-shop: Leiher
+shop: pawnbroker
 ---

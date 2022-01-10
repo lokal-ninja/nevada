@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /sparks/sherwin-williams/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CB Brown Furniture"
 url: /winnemucca/cb-brown-furniture/
-shop: Möbel
+shop: furniture
 ---

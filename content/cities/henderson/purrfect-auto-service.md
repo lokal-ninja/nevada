@@ -1,5 +1,5 @@
 ---
 title: "Purrfect Auto Service"
 url: /henderson/purrfect-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /reno/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

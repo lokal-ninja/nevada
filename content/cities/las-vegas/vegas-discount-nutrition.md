@@ -1,5 +1,5 @@
 ---
 title: "Vegas Discount Nutrition"
 url: /las-vegas/vegas-discount-nutrition/
-shop: Bioladen
+shop: health food
 ---

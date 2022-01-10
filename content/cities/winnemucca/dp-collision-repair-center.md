@@ -1,5 +1,5 @@
 ---
 title: "DP Collision Repair Center"
 url: /winnemucca/dp-collision-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

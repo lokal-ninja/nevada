@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /carson-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

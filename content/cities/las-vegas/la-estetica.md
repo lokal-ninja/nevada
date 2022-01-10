@@ -1,5 +1,5 @@
 ---
 title: "La Estetica"
 url: /las-vegas/la-estetica/
-shop: Friseur
+shop: hairdresser
 ---

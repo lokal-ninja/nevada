@@ -1,5 +1,5 @@
 ---
 title: "Stein Mart"
 url: /las-vegas/stein-mart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budget Motors"
 url: /reno/budget-motors/
-shop: Autohaus
+shop: car
 ---

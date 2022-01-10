@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /north-las-vegas/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

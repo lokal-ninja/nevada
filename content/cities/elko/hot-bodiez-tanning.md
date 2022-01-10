@@ -1,5 +1,5 @@
 ---
 title: "Hot Bodiez Tanning"
 url: /elko/hot-bodiez-tanning/
-shop: Kosmetik
+shop: beauty
 ---

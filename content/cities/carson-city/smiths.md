@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /carson-city/smiths/
-shop: Supermarkt
+shop: supermarket
 ---

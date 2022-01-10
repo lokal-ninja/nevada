@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /elko/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

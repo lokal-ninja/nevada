@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /winnemucca/verizon/
-shop: Handy
+shop: mobile phone
 ---

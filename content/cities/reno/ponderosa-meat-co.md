@@ -1,5 +1,5 @@
 ---
 title: "Ponderosa Meat Co"
 url: /reno/ponderosa-meat-co/
-shop: Metzgerei
+shop: butcher
 ---

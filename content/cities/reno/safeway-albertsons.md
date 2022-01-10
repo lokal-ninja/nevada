@@ -1,5 +1,5 @@
 ---
 title: "Safeway (Albertsons)"
 url: /reno/safeway-albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

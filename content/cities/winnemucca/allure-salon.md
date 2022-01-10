@@ -1,5 +1,5 @@
 ---
 title: "Allure Salon"
 url: /winnemucca/allure-salon/
-shop: Kosmetik
+shop: beauty
 ---

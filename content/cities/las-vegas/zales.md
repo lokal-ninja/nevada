@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /las-vegas/zales/
-shop: Schmuck
+shop: jewelry
 ---

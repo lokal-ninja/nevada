@@ -1,5 +1,5 @@
 ---
 title: "Bristlecone Bikes"
 url: /elko/bristlecone-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

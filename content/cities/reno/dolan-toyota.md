@@ -1,5 +1,5 @@
 ---
 title: "Dolan Toyota"
 url: /reno/dolan-toyota/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Writer's Block"
 url: /las-vegas/writers-block/
-shop: Bücher
+shop: books
 ---

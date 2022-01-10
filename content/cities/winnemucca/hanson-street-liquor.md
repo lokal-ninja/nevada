@@ -1,5 +1,5 @@
 ---
 title: "Hanson Street Liquor"
 url: /winnemucca/hanson-street-liquor/
-shop: Spirituosen
+shop: alcohol
 ---
