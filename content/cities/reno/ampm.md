@@ -1,5 +1,5 @@
 ---
-title: "AMPM"
+title: "ampm"
 url: /reno/ampm/
 shop: convenience
 ---
