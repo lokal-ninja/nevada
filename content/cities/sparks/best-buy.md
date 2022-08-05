@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
-url: /reno/best-buy/
+url: /sparks/best-buy/
 shop: electronics
 ---
