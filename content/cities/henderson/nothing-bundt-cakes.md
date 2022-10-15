@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /las-vegas/nothing-bundt-cakes-2/
+url: /henderson/nothing-bundt-cakes/
 shop: pastry
 ---
