@@ -1,6 +1,6 @@
 ---
 title: Tonopah
 url: /tonopah/
-latitude: 38.065
-longitude: -117.228
+latitude: 38.079
+longitude: -117.253
 ---
