@@ -1,5 +1,5 @@
 ---
 title: "Terrible's"
-url: /henderson/terribles/
+url: /henderson/terribles-west-sunset-road/
 shop: convenience
 ---

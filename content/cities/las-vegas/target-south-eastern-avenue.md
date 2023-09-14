@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /las-vegas/target/
+url: /las-vegas/target-south-eastern-avenue/
 shop: supermarket
 ---

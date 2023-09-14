@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
-url: /henderson/ezpawn/
+url: /henderson/ezpawn-west-sunset-road/
 shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /las-vegas/walmart-neighborhood-market/
+url: /las-vegas/walmart-neighborhood-market-west-cheyenne-avenue/
 shop: supermarket
 ---

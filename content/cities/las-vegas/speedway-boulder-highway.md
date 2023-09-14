@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /las-vegas/speedway/
+url: /las-vegas/speedway-boulder-highway/
 shop: convenience
 ---

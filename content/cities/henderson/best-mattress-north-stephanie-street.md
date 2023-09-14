@@ -1,5 +1,5 @@
 ---
 title: "Best Mattress"
-url: /henderson/best-mattress/
+url: /henderson/best-mattress-north-stephanie-street/
 shop: bed
 ---

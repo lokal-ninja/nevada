@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
-url: /las-vegas/sams-club/
+url: /las-vegas/sams-club-east-serene-avenue/
 shop: wholesale
 ---

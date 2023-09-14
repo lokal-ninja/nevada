@@ -1,5 +1,5 @@
 ---
 title: "Walker Furniture"
-url: /henderson/walker-furniture/
+url: /henderson/walker-furniture-marks-street/
 shop: furniture
 ---

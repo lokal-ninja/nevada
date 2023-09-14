@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /henderson/7-eleven/
+url: /henderson/7-eleven-east-horizon-drive/
 shop: convenience
 ---
