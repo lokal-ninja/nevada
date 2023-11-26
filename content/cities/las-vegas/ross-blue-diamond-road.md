@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /henderson/ross-lake-mead-parkway/
+url: /las-vegas/ross-blue-diamond-road/
 shop: department store
 ---
