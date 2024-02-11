@@ -1,6 +1,6 @@
 ---
 title: Las Vegas
 url: /las-vegas/
-latitude: 36.156
-longitude: -115.204
+latitude: 36.301
+longitude: -115.279
 ---

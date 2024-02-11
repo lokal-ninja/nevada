@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /las-vegas/albertsons-n-hualapai-way/
+url: /pahrump/albertsons/
 shop: supermarket
 ---

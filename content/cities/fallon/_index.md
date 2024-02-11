@@ -1,6 +1,6 @@
 ---
 title: Fallon
 url: /fallon/
-latitude: 39.475
-longitude: -118.807
+latitude: 39.477
+longitude: -118.787
 ---
