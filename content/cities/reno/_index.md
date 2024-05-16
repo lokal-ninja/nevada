@@ -1,6 +1,6 @@
 ---
 title: Reno
 url: /reno/
-latitude: 39.479
-longitude: -119.791
+latitude: 39.469
+longitude: -119.787
 ---
