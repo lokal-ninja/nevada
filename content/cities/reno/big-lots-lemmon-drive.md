@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
-url: /las-vegas/big-lots-w-tropical-pkwy/
+url: /reno/big-lots-lemmon-drive/
 shop: department store
 ---
