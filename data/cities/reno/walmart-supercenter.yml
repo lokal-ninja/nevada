@@ -1,11 +1,11 @@
-id: 5315598088
-type: node
-latitude: 39.6154
-longitude: -119.85303
-postcode: "89506"
+id: 38063703
+type: way
+latitude: 39.53489
+longitude: -119.86839
+postcode: "89523"
 city: Reno
-street: "Vista Knoll Parkway"
-housenumber: 250
-phone: "+1 775-332-0308"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4239/reno-nv/whats-new"
+street: "West 7th Street"
+housenumber: 5260
+phone: "+1 775-624-2000"
+opening_hours: "06:00-23:00"
+website: "https://www.walmart.com/store/3254-reno-nv/"

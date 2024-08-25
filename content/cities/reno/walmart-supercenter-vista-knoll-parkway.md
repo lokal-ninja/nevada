@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /reno/walmart-supercenter-west-7th-street/
+url: /reno/walmart-supercenter-vista-knoll-parkway/
 shop: supermarket
 ---

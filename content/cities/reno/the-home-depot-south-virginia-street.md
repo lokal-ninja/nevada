@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /reno/the-home-depot-steamboat-parkway/
+url: /reno/the-home-depot-south-virginia-street/
 shop: doityourself
 ---
