@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /las-vegas/albertsons-boulder-highway/
-shop: supermarket
+shop: Supermarkt
 ---

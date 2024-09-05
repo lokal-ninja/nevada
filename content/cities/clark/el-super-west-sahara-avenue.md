@@ -1,5 +1,5 @@
 ---
 title: "El Super"
 url: /clark/el-super-west-sahara-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

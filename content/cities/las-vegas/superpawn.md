@@ -1,5 +1,5 @@
 ---
 title: "SuperPawn"
 url: /las-vegas/superpawn/
-shop: pawnbroker
+shop: Leiher
 ---

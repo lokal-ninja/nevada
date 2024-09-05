@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /las-vegas/smiths-west-desert-inn-road/
-shop: supermarket
+shop: Supermarkt
 ---

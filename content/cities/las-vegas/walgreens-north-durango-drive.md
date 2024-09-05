@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /las-vegas/walgreens-north-durango-drive/
-shop: chemist
+shop: Drogerie
 ---

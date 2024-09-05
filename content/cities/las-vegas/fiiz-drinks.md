@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /las-vegas/fiiz-drinks/
-shop: beverages
+shop: Getränke
 ---

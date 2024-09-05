@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /winnemucca/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

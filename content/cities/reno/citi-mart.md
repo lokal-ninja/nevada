@@ -1,5 +1,5 @@
 ---
 title: "Citi Mart"
 url: /reno/citi-mart/
-shop: convenience
+shop: Lebensmittel
 ---

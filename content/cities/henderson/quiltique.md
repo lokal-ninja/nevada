@@ -1,5 +1,5 @@
 ---
 title: "Quiltique"
 url: /henderson/quiltique/
-shop: fabric
+shop: Textil
 ---

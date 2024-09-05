@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /north-las-vegas/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

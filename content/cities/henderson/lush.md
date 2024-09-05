@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /henderson/lush/
-shop: beauty
+shop: Kosmetik
 ---

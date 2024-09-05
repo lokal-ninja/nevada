@@ -1,5 +1,5 @@
 ---
 title: "Tan"
 url: /henderson/tan/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le French Twiste"
 url: /winnemucca/le-french-twiste/
-shop: beauty
+shop: Kosmetik
 ---

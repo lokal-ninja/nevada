@@ -1,5 +1,5 @@
 ---
 title: "PolyEsther's Costume Boutique"
 url: /reno/polyesthers-costume-boutique/
-shop: clothes
+shop: Kleidung
 ---

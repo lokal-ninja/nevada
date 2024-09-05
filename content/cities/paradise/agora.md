@@ -1,5 +1,5 @@
 ---
 title: "Agora"
 url: /paradise/agora/
-shop: beauty
+shop: Kosmetik
 ---

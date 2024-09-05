@@ -1,5 +1,5 @@
 ---
 title: "Thrive"
 url: /las-vegas/thrive/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evolution Tattoo"
 url: /reno/evolution-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

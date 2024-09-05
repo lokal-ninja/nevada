@@ -1,5 +1,5 @@
 ---
 title: "OutletPC"
 url: /henderson/outletpc/
-shop: computer
+shop: Computer
 ---

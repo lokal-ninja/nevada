@@ -1,5 +1,5 @@
 ---
 title: "LITGEAR"
 url: /las-vegas/litgear/
-shop: motorcycle
+shop: Motorrad
 ---

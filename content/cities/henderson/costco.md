@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /henderson/costco/
-shop: wholesale
+shop: Großhandel
 ---

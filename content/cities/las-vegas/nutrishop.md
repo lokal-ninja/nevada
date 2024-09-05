@@ -1,5 +1,5 @@
 ---
 title: "Nutrishop"
 url: /las-vegas/nutrishop/
-shop: health food
+shop: Bioladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Granello Bakery"
 url: /las-vegas/granello-bakery/
-shop: bakery
+shop: Bäckerei
 ---

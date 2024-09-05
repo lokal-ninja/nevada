@@ -1,5 +1,5 @@
 ---
 title: "Best Auto"
 url: /las-vegas/best-auto/
-shop: car
+shop: Autohaus
 ---

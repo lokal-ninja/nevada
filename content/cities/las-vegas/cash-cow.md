@@ -1,5 +1,5 @@
 ---
 title: "Cash Cow"
 url: /las-vegas/cash-cow/
-shop: pawnbroker
+shop: Leiher
 ---

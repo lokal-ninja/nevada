@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /pahrump/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

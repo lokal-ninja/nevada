@@ -1,5 +1,5 @@
 ---
 title: "Pretty Paws Pet Grooming"
 url: /las-vegas/pretty-paws-pet-grooming/
-shop: pet grooming
+shop: Tiersalon
 ---

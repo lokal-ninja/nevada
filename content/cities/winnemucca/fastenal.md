@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /winnemucca/fastenal/
-shop: trade
+shop: Baustoffe
 ---

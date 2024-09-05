@@ -1,5 +1,5 @@
 ---
 title: "Tramway Market"
 url: /stateline/tramway-market/
-shop: convenience
+shop: Lebensmittel
 ---

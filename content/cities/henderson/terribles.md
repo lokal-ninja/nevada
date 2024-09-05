@@ -1,5 +1,5 @@
 ---
 title: "Terrible's"
 url: /henderson/terribles/
-shop: convenience
+shop: Lebensmittel
 ---

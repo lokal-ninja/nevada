@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /las-vegas/office-depot-arroyo-crossing-parkway/
-shop: office supplies
+shop: Schreibwaren
 ---

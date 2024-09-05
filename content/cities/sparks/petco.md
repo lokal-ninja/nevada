@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sparks/petco/
-shop: pet
+shop: Tiere
 ---

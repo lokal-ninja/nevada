@@ -1,5 +1,5 @@
 ---
 title: "Ruby Mountain Natural Spring Water"
 url: /winnemucca/ruby-mountain-natural-spring-water/
-shop: beverages
+shop: Getränke
 ---

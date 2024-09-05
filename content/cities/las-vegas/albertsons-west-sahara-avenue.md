@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /las-vegas/albertsons-west-sahara-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /reno/costco/
-shop: wholesale
+shop: Großhandel
 ---

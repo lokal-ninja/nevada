@@ -1,5 +1,5 @@
 ---
 title: "Castaways"
 url: /henderson/castaways/
-shop: charity
+shop: Gebrauchtwaren
 ---

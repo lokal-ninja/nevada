@@ -1,5 +1,5 @@
 ---
 title: "The Mane Obsession"
 url: /reno/the-mane-obsession/
-shop: hairdresser
+shop: Friseur
 ---

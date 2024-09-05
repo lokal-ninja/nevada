@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /sparks/best-buy/
-shop: electronics
+shop: Elektronik
 ---

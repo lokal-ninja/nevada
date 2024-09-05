@@ -1,5 +1,5 @@
 ---
 title: "Bella Grazia Wine Tasting"
 url: /winnemucca/bella-grazia-wine-tasting/
-shop: wine
+shop: Wein
 ---

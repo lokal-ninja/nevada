@@ -1,5 +1,5 @@
 ---
 title: "Showcase"
 url: /paradise/showcase/
-shop: mall
+shop: Einkaufszentrum
 ---
