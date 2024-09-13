@@ -1,5 +1,5 @@
 ---
 title: "Sonoma Funeral Home"
 url: /winnemucca/sonoma-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

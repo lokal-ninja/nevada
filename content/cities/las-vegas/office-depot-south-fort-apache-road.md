@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /las-vegas/office-depot-south-fort-apache-road/
-shop: Schreibwaren
+shop: office supplies
 ---

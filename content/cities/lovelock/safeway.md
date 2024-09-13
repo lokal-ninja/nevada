@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /lovelock/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

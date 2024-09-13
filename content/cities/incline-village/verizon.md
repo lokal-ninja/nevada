@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /incline-village/verizon/
-shop: Handy
+shop: mobile phone
 ---

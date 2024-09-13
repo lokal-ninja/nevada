@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /henderson/carters/
-shop: Kleidung
+shop: clothes
 ---

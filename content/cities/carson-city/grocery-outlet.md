@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /carson-city/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

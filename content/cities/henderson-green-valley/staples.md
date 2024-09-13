@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /henderson-green-valley/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

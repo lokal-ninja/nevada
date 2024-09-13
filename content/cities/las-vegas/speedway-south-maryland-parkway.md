@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /las-vegas/speedway-south-maryland-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

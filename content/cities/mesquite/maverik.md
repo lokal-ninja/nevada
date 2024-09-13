@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /mesquite/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

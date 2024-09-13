@@ -1,5 +1,5 @@
 ---
 title: "La Paloma Funeral Services"
 url: /las-vegas/la-paloma-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

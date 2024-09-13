@@ -1,5 +1,5 @@
 ---
 title: "Nonstop Auto"
 url: /reno/nonstop-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

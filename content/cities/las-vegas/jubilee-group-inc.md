@@ -1,5 +1,5 @@
 ---
 title: "Jubilee Group Inc"
 url: /las-vegas/jubilee-group-inc/
-shop: Fliesen
+shop: tiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carson Tahoe Self Storage"
 url: /carson-city/carson-tahoe-self-storage/
-shop: Mieten
+shop: storage rental
 ---

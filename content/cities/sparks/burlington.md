@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /sparks/burlington/
-shop: Warenhaus
+shop: department store
 ---

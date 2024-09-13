@@ -1,5 +1,5 @@
 ---
 title: "Terrible Herbst"
 url: /las-vegas/terrible-herbst-west-charleston-boulevard-2/
-shop: Autowerkstatt
+shop: car repair
 ---

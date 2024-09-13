@@ -1,5 +1,5 @@
 ---
 title: "Flying J"
 url: /winnemucca/flying-j/
-shop: Lebensmittel
+shop: convenience
 ---

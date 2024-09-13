@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /henderson/albertsons-bicentennial-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

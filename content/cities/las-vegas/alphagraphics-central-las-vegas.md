@@ -1,5 +1,5 @@
 ---
 title: "AlphaGraphics Central Las Vegas"
 url: /las-vegas/alphagraphics-central-las-vegas/
-shop: Allgemein
+shop: shop
 ---

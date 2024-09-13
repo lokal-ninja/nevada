@@ -1,5 +1,5 @@
 ---
 title: "Happy Tiers"
 url: /incline-village/happy-tiers/
-shop: Bäckerei
+shop: bakery
 ---

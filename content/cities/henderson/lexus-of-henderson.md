@@ -1,5 +1,5 @@
 ---
 title: "Lexus of Henderson"
 url: /henderson/lexus-of-henderson/
-shop: Autohaus
+shop: car
 ---

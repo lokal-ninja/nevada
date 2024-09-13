@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lovelock/shell/
-shop: Lebensmittel
+shop: convenience
 ---

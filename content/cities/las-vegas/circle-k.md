@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /las-vegas/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

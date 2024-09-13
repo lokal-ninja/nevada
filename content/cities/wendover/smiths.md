@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /wendover/smiths/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /henderson/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

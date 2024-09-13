@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /henderson/vons-east-windmill-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

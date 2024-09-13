@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /las-vegas/cricket-wireless-south-maryland-parkway/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /ely/verizon/
-shop: Handy
+shop: mobile phone
 ---

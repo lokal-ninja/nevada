@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /las-vegas/target-west-charleston-boulevard/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fat Tuesday"
 url: /paradise/fat-tuesday/
-shop: Spirituosen
+shop: alcohol
 ---

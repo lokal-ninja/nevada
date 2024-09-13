@@ -1,5 +1,5 @@
 ---
 title: "Vegas Discount Nutrition"
 url: /henderson/vegas-discount-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

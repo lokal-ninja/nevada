@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /las-vegas/vons-east-windmill-lane/
-shop: Supermarkt
+shop: supermarket
 ---

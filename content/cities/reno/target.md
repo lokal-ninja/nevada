@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /reno/target/
-shop: Warenhaus
+shop: department store
 ---

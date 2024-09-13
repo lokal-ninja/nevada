@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /henderson/anthropologie/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /las-vegas/warhammer/
-shop: Spiele
+shop: games
 ---

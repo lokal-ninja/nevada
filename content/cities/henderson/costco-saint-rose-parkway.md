@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /henderson/costco-saint-rose-parkway/
-shop: Großhandel
+shop: wholesale
 ---

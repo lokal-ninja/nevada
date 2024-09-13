@@ -1,5 +1,5 @@
 ---
 title: "Avantpop Bookstore"
 url: /las-vegas/avantpop-bookstore/
-shop: Bücher
+shop: books
 ---

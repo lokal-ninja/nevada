@@ -1,5 +1,5 @@
 ---
 title: "Salud Optima"
 url: /sparks/salud-optima/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

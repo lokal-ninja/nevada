@@ -1,5 +1,5 @@
 ---
 title: "TahoeJetBoats"
 url: /incline-village/tahoejetboats/
-shop: Mieten
+shop: storage rental
 ---

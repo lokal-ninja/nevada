@@ -1,5 +1,5 @@
 ---
 title: "Just Dog Grooming"
 url: /sparks/just-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

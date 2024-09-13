@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /carson-city/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

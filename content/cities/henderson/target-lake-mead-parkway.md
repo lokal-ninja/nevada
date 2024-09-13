@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /henderson/target-lake-mead-parkway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /henderson/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

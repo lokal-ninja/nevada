@@ -1,5 +1,5 @@
 ---
 title: "Dollar Loan Center"
 url: /reno/dollar-loan-center/
-shop: Leiher
+shop: pawnbroker
 ---

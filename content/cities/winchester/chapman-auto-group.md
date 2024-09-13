@@ -1,5 +1,5 @@
 ---
 title: "Chapman Auto Group"
 url: /winchester/chapman-auto-group/
-shop: Autohaus
+shop: car
 ---

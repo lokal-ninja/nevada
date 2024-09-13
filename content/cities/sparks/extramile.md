@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /sparks/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

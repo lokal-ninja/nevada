@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /henderson/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

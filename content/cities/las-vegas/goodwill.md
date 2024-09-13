@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /las-vegas/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

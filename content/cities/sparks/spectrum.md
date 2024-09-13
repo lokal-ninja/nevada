@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /sparks/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "James Gaskets Inc."
 url: /dayton/james-gaskets-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

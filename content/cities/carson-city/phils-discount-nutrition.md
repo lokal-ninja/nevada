@@ -1,5 +1,5 @@
 ---
 title: "Phil's Discount Nutrition"
 url: /carson-city/phils-discount-nutrition/
-shop: Bioladen
+shop: health food
 ---

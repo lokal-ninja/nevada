@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /sparks/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

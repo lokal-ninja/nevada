@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /las-vegas/cvs-pharmacy-s-hollywood-blvd/
-shop: Drogerie
+shop: chemist
 ---

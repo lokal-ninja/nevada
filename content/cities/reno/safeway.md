@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /reno/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

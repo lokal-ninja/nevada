@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /las-vegas/ross-civic-center-drive/
-shop: Warenhaus
+shop: department store
 ---

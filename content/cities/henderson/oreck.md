@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /henderson/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

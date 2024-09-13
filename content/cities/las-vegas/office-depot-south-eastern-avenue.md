@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /las-vegas/office-depot-south-eastern-avenue/
-shop: Schreibwaren
+shop: office supplies
 ---

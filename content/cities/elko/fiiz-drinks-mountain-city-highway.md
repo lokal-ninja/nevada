@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /elko/fiiz-drinks-mountain-city-highway/
-shop: Getränke
+shop: beverages
 ---

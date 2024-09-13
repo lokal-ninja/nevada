@@ -1,5 +1,5 @@
 ---
 title: "Honda West"
 url: /las-vegas/honda-west/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rango Broadband"
 url: /winnemucca/rango-broadband/
-shop: Computer
+shop: computer
 ---

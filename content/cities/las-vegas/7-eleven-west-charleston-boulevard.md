@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /las-vegas/7-eleven-west-charleston-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

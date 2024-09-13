@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /carson-city/target/
-shop: Warenhaus
+shop: department store
 ---

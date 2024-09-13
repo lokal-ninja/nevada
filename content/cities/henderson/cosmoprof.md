@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /henderson/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

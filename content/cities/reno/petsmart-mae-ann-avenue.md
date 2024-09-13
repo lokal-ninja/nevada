@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /reno/petsmart-mae-ann-avenue/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /carson-city/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

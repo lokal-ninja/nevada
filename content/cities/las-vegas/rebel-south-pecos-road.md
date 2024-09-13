@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /las-vegas/rebel-south-pecos-road/
-shop: Lebensmittel
+shop: convenience
 ---

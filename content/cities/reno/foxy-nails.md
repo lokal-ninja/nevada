@@ -1,5 +1,5 @@
 ---
 title: "Foxy Nails"
 url: /reno/foxy-nails/
-shop: Kosmetik
+shop: beauty
 ---

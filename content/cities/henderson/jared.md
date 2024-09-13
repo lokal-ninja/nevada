@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /henderson/jared/
-shop: Schmuck
+shop: jewelry
 ---

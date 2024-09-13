@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /las-vegas/speedway-south-durango-drive/
-shop: Lebensmittel
+shop: convenience
 ---

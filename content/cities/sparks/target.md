@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sparks/target/
-shop: Warenhaus
+shop: department store
 ---

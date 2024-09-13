@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /henderson/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

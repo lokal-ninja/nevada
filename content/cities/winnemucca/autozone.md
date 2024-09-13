@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /winnemucca/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catholic Thrift Store"
 url: /mesquite/catholic-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

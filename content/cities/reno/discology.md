@@ -1,5 +1,5 @@
 ---
 title: "Discology"
 url: /reno/discology/
-shop: Musik
+shop: music
 ---

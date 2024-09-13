@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /las-vegas/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /las-vegas/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

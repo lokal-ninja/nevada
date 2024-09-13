@@ -1,5 +1,5 @@
 ---
 title: "Henderson Nissan"
 url: /henderson/henderson-nissan/
-shop: Autohaus
+shop: car
 ---

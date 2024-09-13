@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /north-las-vegas/ross/
-shop: Warenhaus
+shop: department store
 ---

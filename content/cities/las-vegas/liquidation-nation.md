@@ -1,5 +1,5 @@
 ---
 title: "Liquidation Nation"
 url: /las-vegas/liquidation-nation/
-shop: Kramladen
+shop: variety store
 ---

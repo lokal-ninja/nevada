@@ -1,5 +1,5 @@
 ---
 title: "TruVape"
 url: /las-vegas/truvape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

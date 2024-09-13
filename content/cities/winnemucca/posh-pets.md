@@ -1,5 +1,5 @@
 ---
 title: "Posh Pets"
 url: /winnemucca/posh-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

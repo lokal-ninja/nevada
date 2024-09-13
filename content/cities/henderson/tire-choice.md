@@ -1,5 +1,5 @@
 ---
 title: "Tire Choice"
 url: /henderson/tire-choice/
-shop: Autowerkstatt
+shop: car repair
 ---

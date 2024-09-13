@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /las-vegas/burlington-south-las-vegas-boulevard/
-shop: Warenhaus
+shop: department store
 ---

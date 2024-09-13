@@ -1,5 +1,5 @@
 ---
 title: "Big's Furniture"
 url: /henderson/bigs-furniture/
-shop: Möbel
+shop: furniture
 ---

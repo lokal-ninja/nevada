@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /reno/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

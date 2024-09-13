@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /las-vegas/petco-north-decatur-boulevard/
-shop: Tiere
+shop: pet
 ---

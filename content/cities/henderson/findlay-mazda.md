@@ -1,5 +1,5 @@
 ---
 title: "Findlay Mazda"
 url: /henderson/findlay-mazda/
-shop: Autohaus
+shop: car
 ---

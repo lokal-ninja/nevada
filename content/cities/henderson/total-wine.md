@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /henderson/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

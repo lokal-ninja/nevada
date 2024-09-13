@@ -1,5 +1,5 @@
 ---
 title: "Safe Lube Plus"
 url: /reno/safe-lube-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

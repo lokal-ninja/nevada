@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /boulder-city/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

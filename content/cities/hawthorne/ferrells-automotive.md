@@ -1,5 +1,5 @@
 ---
 title: "Ferrell's Automotive"
 url: /hawthorne/ferrells-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

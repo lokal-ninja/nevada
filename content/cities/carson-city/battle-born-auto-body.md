@@ -1,5 +1,5 @@
 ---
 title: "Battle Born Auto Body"
 url: /carson-city/battle-born-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

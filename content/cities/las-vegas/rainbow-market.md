@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Market"
 url: /las-vegas/rainbow-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /las-vegas/ross-blue-diamond-road/
-shop: Warenhaus
+shop: department store
 ---

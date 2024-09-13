@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /henderson/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

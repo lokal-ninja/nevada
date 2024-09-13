@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /henderson/aerie/
-shop: Kleidung
+shop: clothes
 ---

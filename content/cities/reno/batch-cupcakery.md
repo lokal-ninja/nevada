@@ -1,5 +1,5 @@
 ---
 title: "Batch Cupcakery"
 url: /reno/batch-cupcakery/
-shop: Bäckerei
+shop: bakery
 ---

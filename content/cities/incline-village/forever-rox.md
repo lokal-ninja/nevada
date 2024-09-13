@@ -1,5 +1,5 @@
 ---
 title: "Forever Rox"
 url: /incline-village/forever-rox/
-shop: Schmuck
+shop: jewelry
 ---

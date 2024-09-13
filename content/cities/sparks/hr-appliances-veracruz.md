@@ -1,5 +1,5 @@
 ---
 title: "HR Appliances Veracruz"
 url: /sparks/hr-appliances-veracruz/
-shop: Haushaltsgeräte
+shop: appliance
 ---

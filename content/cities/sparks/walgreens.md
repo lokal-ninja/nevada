@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sparks/walgreens/
-shop: Drogerie
+shop: chemist
 ---

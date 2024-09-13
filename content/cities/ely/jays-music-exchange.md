@@ -1,5 +1,5 @@
 ---
 title: "Jay's Music Exchange"
 url: /ely/jays-music-exchange/
-shop: Instrumente
+shop: musical instrument
 ---

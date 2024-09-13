@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /las-vegas/smiths-west-flamingo-road/
-shop: Supermarkt
+shop: supermarket
 ---

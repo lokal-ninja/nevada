@@ -1,5 +1,5 @@
 ---
 title: "Penzoil"
 url: /winnemucca/penzoil/
-shop: Autowerkstatt
+shop: car repair
 ---

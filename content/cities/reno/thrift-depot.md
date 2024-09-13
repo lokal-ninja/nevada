@@ -1,5 +1,5 @@
 ---
 title: "Thrift Depot"
 url: /reno/thrift-depot/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /pahrump/tractor-supply-company/
-shop: Dorfladen
+shop: general
 ---

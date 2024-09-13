@@ -1,5 +1,5 @@
 ---
 title: "Meek's"
 url: /gardnerville/meeks/
-shop: Eisenwaren
+shop: hardware
 ---

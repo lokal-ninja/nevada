@@ -1,5 +1,5 @@
 ---
 title: "Golden Market"
 url: /north-las-vegas/golden-market/
-shop: Lebensmittel
+shop: convenience
 ---

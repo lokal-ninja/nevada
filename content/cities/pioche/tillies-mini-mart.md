@@ -1,5 +1,5 @@
 ---
 title: "Tillies Mini Mart"
 url: /pioche/tillies-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

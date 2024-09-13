@@ -1,5 +1,5 @@
 ---
 title: "Moneytree"
 url: /las-vegas/moneytree/
-shop: Leiher
+shop: pawnbroker
 ---

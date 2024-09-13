@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /las-vegas/smiths-west-sahara-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

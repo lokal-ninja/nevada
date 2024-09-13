@@ -1,5 +1,5 @@
 ---
 title: "Land Rover"
 url: /henderson/land-rover/
-shop: Autohaus
+shop: car
 ---

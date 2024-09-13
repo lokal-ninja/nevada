@@ -1,5 +1,5 @@
 ---
 title: "Xpressions"
 url: /henderson/xpressions/
-shop: Friseur
+shop: hairdresser
 ---

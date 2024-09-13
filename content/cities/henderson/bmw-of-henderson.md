@@ -1,5 +1,5 @@
 ---
 title: "BMW of Henderson"
 url: /henderson/bmw-of-henderson/
-shop: Autohaus
+shop: car
 ---

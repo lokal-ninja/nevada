@@ -1,5 +1,5 @@
 ---
 title: "Scrubtastic"
 url: /henderson/scrubtastic/
-shop: Kleidung
+shop: clothes
 ---

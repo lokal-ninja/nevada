@@ -1,5 +1,5 @@
 ---
 title: "Las Vegas Barbershop"
 url: /henderson/las-vegas-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

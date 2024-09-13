@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /north-las-vegas/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

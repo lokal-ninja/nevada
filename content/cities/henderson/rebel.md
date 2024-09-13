@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /henderson/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

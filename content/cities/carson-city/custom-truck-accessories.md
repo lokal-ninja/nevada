@@ -1,5 +1,5 @@
 ---
 title: "Custom Truck Accessories"
 url: /carson-city/custom-truck-accessories/
-shop: Wohnwagen
+shop: caravan
 ---
