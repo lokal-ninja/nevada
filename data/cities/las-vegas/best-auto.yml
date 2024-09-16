@@ -1,11 +1,11 @@
 id: 313298803
-type: way
+type: node
 latitude: 36.12948
 longitude: -115.09011
 postcode: ""
 city: Las Vegas
-street: "East Desert Inn Road"
-housenumber: 3887
+street: East Desert Inn Road
+housenumber: "3887"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 984256819
-type: way
+type: node
 latitude: 36.17482
 longitude: -115.09609
 postcode: "89110"
 city: Las Vegas
-street: "East Bonanza Road"
-housenumber: 3602
-phone: "+1 702-438-4787"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/las-vegas/smiths/706/00305"
+street: East Bonanza Road
+housenumber: "3602"
+phone: +1 702-438-4787
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/las-vegas/smiths/706/00305

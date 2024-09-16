@@ -1,11 +1,11 @@
 id: 1158816585
-type: way
+type: node
 latitude: 36.28263
 longitude: -115.2687
 postcode: "89131"
 city: Las Vegas
-street: "Sky Pointe Drive"
-housenumber: 6658
-phone: "+1 702-839-1258"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Sky Pointe Drive
+housenumber: "6658"
+phone: +1 702-839-1258
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

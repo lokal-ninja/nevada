@@ -1,6 +1,6 @@
 ---
 title: Jackpot
 url: /jackpot/
-latitude: 41.99
-longitude: -114.671
+latitude: 41.983
+longitude: -114.672
 ---

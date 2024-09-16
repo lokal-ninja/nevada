@@ -1,11 +1,11 @@
 id: 1088320029
-type: way
+type: node
 latitude: 36.02227
 longitude: -115.05018
 postcode: "89012"
 city: Henderson
-street: "West Horizon Ridge Parkway"
-housenumber: 1450
-phone: "+1 702-750-0111"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+street: West Horizon Ridge Parkway
+housenumber: "1450"
+phone: +1 702-750-0111
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
 website: ""

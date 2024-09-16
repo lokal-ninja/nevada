@@ -1,11 +1,11 @@
 id: 144525371
-type: way
+type: node
 latitude: 39.53134
 longitude: -119.86748
 postcode: "89523"
 city: Reno
-street: "Mae Ann Avenue"
-housenumber: 5150
-phone: "+1 775-746-9000"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/nv/reno/5150-mae-anne-ave.html"
+street: Mae Ann Avenue
+housenumber: "5150"
+phone: +1 775-746-9000
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/nv/reno/5150-mae-anne-ave.html

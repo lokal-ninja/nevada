@@ -1,11 +1,11 @@
 id: 375780342
-type: way
+type: node
 latitude: 39.16874
 longitude: -119.76325
 postcode: "89701"
 city: Carson City
-street: "East William Street"
-housenumber: 599
-phone: "+1 775-885-9922"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/carson-city/599-e-william-st-carson-city-nv/706/00356"
+street: East William Street
+housenumber: "599"
+phone: +1 775-885-9922
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/carson-city/599-e-william-st-carson-city-nv/706/00356

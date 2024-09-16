@@ -1,11 +1,11 @@
 id: 891740095
-type: way
+type: node
 latitude: 36.30855
 longitude: -115.2735
 postcode: ""
 city: Las Vegas
-street: "Al Carrison Street"
-housenumber: 8080
+street: Al Carrison Street
+housenumber: "8080"
 phone: ""
 opening_hours: ""
 website: ""

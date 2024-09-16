@@ -1,11 +1,11 @@
 id: 1099742517
-type: way
+type: node
 latitude: 40.96567
 longitude: -117.73773
 postcode: "89445"
 city: Winnemucca
-street: "Hanson Street"
-housenumber: 580
+street: Hanson Street
+housenumber: "580"
 phone: ""
 opening_hours: ""
 website: ""

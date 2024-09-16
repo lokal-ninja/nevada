@@ -1,11 +1,11 @@
 id: 293552428
-type: way
+type: node
 latitude: 36.21719
 longitude: -115.17807
 postcode: "89032"
 city: North Las Vegas
-street: "West Cheyenne Avenue"
-housenumber: 2755
-phone: "+1-702-901-7920"
-opening_hours: "Mo-Sa 08:30-21:30; Su 10:00-17:30"
-website: "https://www.ljsmokeshop.com/"
+street: West Cheyenne Avenue
+housenumber: "2755"
+phone: +1-702-901-7920
+opening_hours: Mo-Sa 08:30-21:30; Su 10:00-17:30
+website: https://www.ljsmokeshop.com/

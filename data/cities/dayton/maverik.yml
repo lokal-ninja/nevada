@@ -1,11 +1,11 @@
 id: 775380253
-type: way
+type: node
 latitude: 39.29466
 longitude: -119.53124
 postcode: "89403"
 city: Dayton
-street: "River Boat Road"
-housenumber: 245
+street: River Boat Road
+housenumber: "245"
 phone: ""
 opening_hours: ""
-website: "https://maverik.com"
+website: https://maverik.com

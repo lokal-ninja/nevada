@@ -4,8 +4,8 @@ latitude: 36.04016
 longitude: -115.19595
 postcode: "89139"
 city: Las Vegas
-street: "Blue Diamond Road"
-housenumber: 4120
-phone: "+1-702-456-0700"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.bestmatt.com/locations/blue-diamond-las-vegas/"
+street: Blue Diamond Road
+housenumber: "4120"
+phone: +1-702-456-0700
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.bestmatt.com/locations/blue-diamond-las-vegas/

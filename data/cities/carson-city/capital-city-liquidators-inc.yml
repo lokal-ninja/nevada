@@ -1,11 +1,11 @@
 id: 1188713317
-type: way
+type: node
 latitude: 39.10223
 longitude: -119.77406
 postcode: "89705"
 city: Carson City
-street: "North US 395"
-housenumber: 3647
+street: North US 395
+housenumber: "3647"
 phone: "+17752670020"
 opening_hours: ""
 website: ""

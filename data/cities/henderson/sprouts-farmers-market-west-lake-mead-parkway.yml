@@ -1,11 +1,11 @@
 id: 579980429
-type: way
+type: node
 latitude: 36.03932
 longitude: -114.9916
 postcode: "89015"
 city: Henderson
-street: "West Lake Mead Parkway"
-housenumber: 280
+street: West Lake Mead Parkway
+housenumber: "280"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/nv/henderson/lake-mead-pkwy/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/nv/henderson/lake-mead-pkwy/

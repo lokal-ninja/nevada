@@ -4,8 +4,8 @@ latitude: 36.20235
 longitude: -115.12224
 postcode: "89030"
 city: North Las Vegas
-street: "Las Vegas Boulevard North"
-housenumber: 2255
-phone: "+1 702-642-8092"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/north-las-vegas/smiths/706/00306"
+street: Las Vegas Boulevard North
+housenumber: "2255"
+phone: +1 702-642-8092
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/north-las-vegas/smiths/706/00306

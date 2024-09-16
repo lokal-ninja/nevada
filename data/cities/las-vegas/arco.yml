@@ -1,11 +1,11 @@
 id: 764144772
-type: way
+type: node
 latitude: 36.1439
 longitude: -115.19146
-postcode: "89102-3849"
+postcode: 89102-3849
 city: Las Vegas
-street: "West Sahara Avenue"
-housenumber: 3701
+street: West Sahara Avenue
+housenumber: "3701"
 phone: "+17025705788"
-opening_hours: "24/7"
-website: "https://www.arco.com/"
+opening_hours: 24/7
+website: https://www.arco.com/

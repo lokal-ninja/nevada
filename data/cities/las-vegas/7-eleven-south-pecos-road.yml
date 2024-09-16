@@ -1,11 +1,11 @@
 id: 907944287
-type: way
+type: node
 latitude: 36.07207
 longitude: -115.1015
 postcode: "89120"
 city: Las Vegas
-street: "South Pecos Road"
-housenumber: 6495
-phone: "+1 702-436-0765"
+street: South Pecos Road
+housenumber: "6495"
+phone: +1 702-436-0765
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nv/las-vegas/6495-s-pecos-rd-39604"
+website: https://www.7-eleven.com/locations/nv/las-vegas/6495-s-pecos-rd-39604

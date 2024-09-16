@@ -1,11 +1,11 @@
 id: 465305971
-type: way
+type: node
 latitude: 39.51591
 longitude: -119.80884
 postcode: "89502"
 city: Reno
-street: "South Virginia Street"
-housenumber: 901
-phone: "+1 775-322-7071"
+street: South Virginia Street
+housenumber: "901"
+phone: +1 775-322-7071
 opening_hours: ""
 website: ""

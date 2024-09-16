@@ -1,11 +1,11 @@
 id: 1089608762
-type: way
+type: node
 latitude: 36.00555
 longitude: -115.08459
 postcode: "89052"
 city: Henderson
-street: "Green Valley Parkway"
-housenumber: 543
+street: Green Valley Parkway
+housenumber: "543"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-19:00; Su 11:00-18:00
 website: ""

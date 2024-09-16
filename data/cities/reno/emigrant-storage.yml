@@ -1,11 +1,11 @@
 id: 488290261
-type: way
+type: node
 latitude: 39.55137
 longitude: -119.81176
 postcode: "89503"
 city: Reno
-street: "Evans Avenue"
-housenumber: 1680
+street: Evans Avenue
+housenumber: "1680"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 926281502
-type: way
+type: node
 latitude: 36.14501
 longitude: -115.1938
-postcode: "89102-0507"
+postcode: 89102-0507
 city: Las Vegas
-street: "West Sahara Avenue"
-housenumber: 3920
-phone: "+1-702-220-6074"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.thetirexpress.com/Contact/Find-Us/Mode/3/3920-W-Sahara-Ave-Las-Vegas-NV-89102/details"
+street: West Sahara Avenue
+housenumber: "3920"
+phone: +1-702-220-6074
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.thetirexpress.com/Contact/Find-Us/Mode/3/3920-W-Sahara-Ave-Las-Vegas-NV-89102/details

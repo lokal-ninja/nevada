@@ -4,8 +4,8 @@ latitude: 36.10539
 longitude: -115.15072
 postcode: "89169"
 city: Las Vegas
-street: "Paradise Road"
-housenumber: 4640
-phone: "+1 702-650-0875"
-opening_hours: "Mo-We 10:00-22:00; Th 10:00-24:00; Fr-Sa 00:00-24:00; Su 00:00-22:00"
+street: Paradise Road
+housenumber: "4640"
+phone: +1 702-650-0875
+opening_hours: Mo-We 10:00-22:00; Th 10:00-24:00; Fr-Sa 00:00-24:00; Su 00:00-22:00
 website: ""

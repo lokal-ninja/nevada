@@ -1,11 +1,11 @@
 id: 1158101667
-type: way
+type: node
 latitude: 39.47523
 longitude: -118.79881
-postcode: "89406-2647"
+postcode: 89406-2647
 city: Fallon
-street: "West Williams Avenue"
-housenumber: 1855
-phone: "+1 775-423-7008"
-opening_hours: "07:00-19:00"
+street: West Williams Avenue
+housenumber: "1855"
+phone: +1 775-423-7008
+opening_hours: 07:00-19:00
 website: ""

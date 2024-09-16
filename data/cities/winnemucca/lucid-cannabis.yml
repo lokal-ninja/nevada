@@ -1,11 +1,11 @@
 id: 1313135646
-type: way
+type: node
 latitude: 40.95311
 longitude: -117.74981
 postcode: "89445"
 city: Winnemucca
-street: "Construction Way"
-housenumber: 3555
+street: Construction Way
+housenumber: "3555"
 phone: ""
 opening_hours: ""
 website: ""

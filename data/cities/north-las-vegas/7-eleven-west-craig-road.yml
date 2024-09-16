@@ -1,11 +1,11 @@
 id: 967535335
-type: way
+type: node
 latitude: 36.23942
 longitude: -115.20698
 postcode: "89032"
 city: North Las Vegas
-street: "West Craig Road"
-housenumber: 4728
+street: West Craig Road
+housenumber: "4728"
 phone: ""
 opening_hours: ""
 website: ""

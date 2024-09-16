@@ -1,11 +1,11 @@
 id: 321046400
-type: way
+type: node
 latitude: 36.0128
 longitude: -115.12288
 postcode: "89183"
 city: Las Vegas
-street: "South Eastern Avenue"
-housenumber: 9725
-phone: "+1 702-914-9555"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/las-vegas-silverado-ranch/1171"
+street: South Eastern Avenue
+housenumber: "9725"
+phone: +1 702-914-9555
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/las-vegas-silverado-ranch/1171

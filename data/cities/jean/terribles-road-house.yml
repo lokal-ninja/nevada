@@ -1,11 +1,11 @@
 id: 697655102
-type: way
+type: node
 latitude: 35.78199
 longitude: -115.3329
 postcode: "89019"
 city: Jean
-street: "Goodsprings Road"
-housenumber: 1
+street: Goodsprings Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

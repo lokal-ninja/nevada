@@ -1,11 +1,11 @@
 id: 538329928
-type: way
+type: node
 latitude: 39.503
 longitude: -119.78792
 postcode: "89502"
 city: Reno
-street: "Kietzke Lane"
-housenumber: 2100
+street: Kietzke Lane
+housenumber: "2100"
 phone: "+17758262750"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.dolanrenotoyota.com/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.dolanrenotoyota.com/

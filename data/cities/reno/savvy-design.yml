@@ -1,11 +1,11 @@
 id: 375119282
-type: way
+type: node
 latitude: 39.5197
 longitude: -119.80906
 postcode: "89501"
 city: Reno
-street: "South Center Street"
-housenumber: 623
+street: South Center Street
+housenumber: "623"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 226496926
-type: way
+type: node
 latitude: 36.00834
 longitude: -115.11772
 postcode: "89183"
 city: Las Vegas
-street: "South Eastern Avenue"
-housenumber: 9955
-phone: "+1 702-270-7400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nv-las-vegas/1719"
+street: South Eastern Avenue
+housenumber: "9955"
+phone: +1 702-270-7400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nv-las-vegas/1719

@@ -1,11 +1,11 @@
 id: 581081118
-type: way
+type: node
 latitude: 39.56682
 longitude: -119.69865
 postcode: "89436"
 city: Sparks
-street: "Los Altos Parkway"
-housenumber: 5900
-phone: "(775) 626-8393"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00, Su 10:00-16:00"
-website: "http://deserthighlandsministorage.com/"
+street: Los Altos Parkway
+housenumber: "5900"
+phone: (775) 626-8393
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00, Su 10:00-16:00
+website: http://deserthighlandsministorage.com/

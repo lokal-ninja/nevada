@@ -1,11 +1,11 @@
 id: 1089718883
-type: way
+type: node
 latitude: 36.02723
 longitude: -115.08357
 postcode: "89074"
 city: Henderson
-street: "North Green Valley Parkway"
-housenumber: 1000
-phone: "+1 702-260-0060"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/henderson/green-valley-pebble-marketplace/706/00348"
+street: North Green Valley Parkway
+housenumber: "1000"
+phone: +1 702-260-0060
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/henderson/green-valley-pebble-marketplace/706/00348

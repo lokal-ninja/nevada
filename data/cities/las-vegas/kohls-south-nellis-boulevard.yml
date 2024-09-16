@@ -1,11 +1,11 @@
 id: 254438303
-type: way
+type: node
 latitude: 36.15577
 longitude: -115.06039
 postcode: "89104"
 city: Las Vegas
-street: "South Nellis Boulevard"
-housenumber: 1300
-phone: "+1 702-437-5346"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/nv/lasvegas-1372.shtml"
+street: South Nellis Boulevard
+housenumber: "1300"
+phone: +1 702-437-5346
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/nv/lasvegas-1372.shtml

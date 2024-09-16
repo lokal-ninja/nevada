@@ -1,11 +1,11 @@
 id: 283264874
-type: way
+type: node
 latitude: 40.74001
 longitude: -114.07601
 postcode: "98993"
 city: West Wendover
-street: "Pueblo Boulevard"
-housenumber: 910
+street: Pueblo Boulevard
+housenumber: "910"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

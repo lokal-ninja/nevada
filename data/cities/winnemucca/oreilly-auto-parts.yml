@@ -1,11 +1,11 @@
 id: 1102429111
-type: way
+type: node
 latitude: 40.96633
 longitude: -117.74378
 postcode: "89445"
 city: Winnemucca
-street: "West Winnemucca Boulevard"
-housenumber: 942
+street: West Winnemucca Boulevard
+housenumber: "942"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nv/winnemucca/autoparts-2972.html"
+website: https://locations.oreillyauto.com/nv/winnemucca/autoparts-2972.html

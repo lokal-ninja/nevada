@@ -1,11 +1,11 @@
 id: 214886475
-type: way
+type: node
 latitude: 36.30182
 longitude: -115.28746
 postcode: "89143"
 city: Las Vegas
-street: "North El Capitan Way"
-housenumber: 7751
-phone: "+1 702-352-0940"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nv-las-vegas/2844"
+street: North El Capitan Way
+housenumber: "7751"
+phone: +1 702-352-0940
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nv-las-vegas/2844

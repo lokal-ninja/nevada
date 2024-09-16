@@ -1,11 +1,11 @@
 id: 545580011
-type: way
+type: node
 latitude: 36.28032
 longitude: -115.13429
 postcode: "89084"
 city: North Las Vegas
-street: "N 5th Street"
-housenumber: 6620
-phone: "+1 702-642-7132"
+street: N 5th Street
+housenumber: "6620"
+phone: +1 702-642-7132
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nv/north-las-vegas/6620-n-5th-st-36016"
+website: https://www.7-eleven.com/locations/nv/north-las-vegas/6620-n-5th-st-36016

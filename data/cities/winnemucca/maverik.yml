@@ -1,11 +1,11 @@
 id: 675581873
-type: way
+type: node
 latitude: 40.964
 longitude: -117.73303
 postcode: "89445"
 city: Winnemucca
-street: "West Haskell Street"
-housenumber: 605
+street: West Haskell Street
+housenumber: "605"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

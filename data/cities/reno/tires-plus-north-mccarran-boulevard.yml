@@ -1,11 +1,11 @@
 id: 668813048
-type: way
+type: node
 latitude: 39.55609
 longitude: -119.79291
 postcode: "89512"
 city: Reno
-street: "North McCarran Boulevard"
-housenumber: 1250
+street: North McCarran Boulevard
+housenumber: "1250"
 phone: ""
 opening_hours: ""
 website: ""

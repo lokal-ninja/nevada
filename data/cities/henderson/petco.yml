@@ -1,11 +1,11 @@
 id: 548911963
-type: way
+type: node
 latitude: 36.06567
 longitude: -115.03849
 postcode: "89014"
 city: Henderson
-street: "Marks Street"
-housenumber: 631
-phone: "+1 702-458-1435"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.bedbathandbeyond.com/"
+street: Marks Street
+housenumber: "631"
+phone: +1 702-458-1435
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.bedbathandbeyond.com/

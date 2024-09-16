@@ -1,11 +1,11 @@
 id: 686679277
-type: way
+type: node
 latitude: 39.47528
 longitude: -118.80739
 postcode: "89406"
 city: Fallon
-street: "Reno Highway"
-housenumber: 2333
-phone: "+1 775-428-1700"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2453/fallon-nv/whats-new"
+street: Reno Highway
+housenumber: "2333"
+phone: +1 775-428-1700
+opening_hours: 24/7
+website: https://www.walmart.com/store/2453/fallon-nv/whats-new

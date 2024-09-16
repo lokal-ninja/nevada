@@ -1,11 +1,11 @@
 id: 703229698
-type: way
+type: node
 latitude: 40.83864
 longitude: -115.7929
 postcode: "89801"
 city: Elko
-street: "Mountain City Highway"
-housenumber: 2645
-phone: "+1 775-738-5972"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/elko-nv-1236"
+street: Mountain City Highway
+housenumber: "2645"
+phone: +1 775-738-5972
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/elko-nv-1236

@@ -1,11 +1,11 @@
 id: 569152608
-type: way
+type: node
 latitude: 39.55501
 longitude: -119.72273
 postcode: "89434"
 city: Sparks
-street: "Baring Boulevard"
-housenumber: 1255
-phone: "+1 775-359-6800"
-opening_hours: "24/7"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/sparks/baring-village-shopping-center/706/00357"
+street: Baring Boulevard
+housenumber: "1255"
+phone: +1 775-359-6800
+opening_hours: 24/7
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/sparks/baring-village-shopping-center/706/00357

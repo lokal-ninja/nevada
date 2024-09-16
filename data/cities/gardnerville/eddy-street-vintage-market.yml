@@ -1,11 +1,11 @@
 id: 1036195322
-type: way
+type: node
 latitude: 38.94121
 longitude: -119.74724
 postcode: "89410"
 city: Gardnerville
-street: "Eddy Street"
-housenumber: 1235
+street: Eddy Street
+housenumber: "1235"
 phone: ""
 opening_hours: ""
 website: ""

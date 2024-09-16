@@ -1,11 +1,11 @@
 id: 242317276
-type: way
+type: node
 latitude: 39.10065
 longitude: -119.7781
-postcode: "89705-6936"
+postcode: 89705-6936
 city: Carson City
-street: "Jacks Valley Road"
-housenumber: 910
-phone: "+1 775-267-5151"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/carson-city/1239"
+street: Jacks Valley Road
+housenumber: "910"
+phone: +1 775-267-5151
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/carson-city/1239

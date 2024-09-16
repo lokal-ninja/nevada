@@ -1,11 +1,11 @@
 id: 689792410
-type: way
+type: node
 latitude: 36.27236
 longitude: -115.27168
 postcode: "89149"
 city: Las Vegas
-street: "West Tropical Parkway"
-housenumber: 8060
-phone: "+1 702-839-3620"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2884/las-vegas-nv/whats-new"
+street: West Tropical Parkway
+housenumber: "8060"
+phone: +1 702-839-3620
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2884/las-vegas-nv/whats-new

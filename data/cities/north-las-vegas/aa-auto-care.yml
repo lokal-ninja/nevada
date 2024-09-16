@@ -1,11 +1,11 @@
 id: 545777510
-type: way
+type: node
 latitude: 36.27735
 longitude: -115.11504
 postcode: "89086"
 city: North Las Vegas
-street: "Losee Road"
-housenumber: 6414
+street: Losee Road
+housenumber: "6414"
 phone: ""
 opening_hours: ""
 website: ""

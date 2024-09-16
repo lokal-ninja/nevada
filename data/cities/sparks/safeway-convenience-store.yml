@@ -1,11 +1,11 @@
 id: 144523893
-type: way
+type: node
 latitude: 39.55527
 longitude: -119.70508
 postcode: "89436"
 city: Sparks
-street: "Vista Boulevard"
-housenumber: 2808
+street: Vista Boulevard
+housenumber: "2808"
 phone: ""
 opening_hours: ""
-website: "https://local.safeway.com/nv/sparks-4626.html"
+website: https://local.safeway.com/nv/sparks-4626.html

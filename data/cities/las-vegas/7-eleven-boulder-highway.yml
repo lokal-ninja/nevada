@@ -4,8 +4,8 @@ latitude: 36.1011
 longitude: -115.05222
 postcode: "89122"
 city: Las Vegas
-street: "Boulder Highway"
-housenumber: 5576
-phone: "+1 702 434 7554"
-opening_hours: "24/7"
+street: Boulder Highway
+housenumber: "5576"
+phone: +1 702 434 7554
+opening_hours: 24/7
 website: ""

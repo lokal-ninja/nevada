@@ -1,11 +1,11 @@
 id: 281751909
-type: way
+type: node
 latitude: 36.11514
 longitude: -115.06788
-postcode: "89121-3018"
+postcode: 89121-3018
 city: Las Vegas
-street: "Boulder Highway"
-housenumber: 4880
-phone: "+1 702-451-7531"
+street: Boulder Highway
+housenumber: "4880"
+phone: +1 702-451-7531
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nv/las-vegas/4880-boulder-hwy-15478"
+website: https://www.7-eleven.com/locations/nv/las-vegas/4880-boulder-hwy-15478

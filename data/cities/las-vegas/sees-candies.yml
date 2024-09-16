@@ -1,11 +1,11 @@
 id: 973315359
-type: way
+type: node
 latitude: 36.28984
 longitude: -115.28586
 postcode: "89149"
 city: Las Vegas
-street: "North Durango Drive"
-housenumber: 7120
+street: North Durango Drive
+housenumber: "7120"
 phone: ""
 opening_hours: ""
 website: ""

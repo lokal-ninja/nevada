@@ -1,11 +1,11 @@
 id: 489485697
-type: way
+type: node
 latitude: 39.53173
 longitude: -119.83095
-postcode: "89503-4147"
+postcode: 89503-4147
 city: Reno
-street: "Keystone Avenue"
-housenumber: 770
-phone: "+1 775-323-6712"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/nv/reno/770-keystone-ave-14084"
+street: Keystone Avenue
+housenumber: "770"
+phone: +1 775-323-6712
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/nv/reno/770-keystone-ave-14084

@@ -1,11 +1,11 @@
 id: 32914849
-type: way
+type: node
 latitude: 39.51017
 longitude: -119.83693
 postcode: "89509"
 city: Reno
-street: "Mayberry Drive"
-housenumber: 1441
-phone: "+1-775-786-0270"
+street: Mayberry Drive
+housenumber: "1441"
+phone: +1-775-786-0270
 opening_hours: ""
-website: "https://www.raleys.com/store/103"
+website: https://www.raleys.com/store/103

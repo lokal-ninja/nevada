@@ -1,11 +1,11 @@
 id: 954724746
-type: way
+type: node
 latitude: 40.84478
 longitude: -115.75112
 postcode: "89801"
 city: Elko
-street: "Idaho Street"
-housenumber: 1825
-phone: "+1 (775) 738-2161"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://retail.purcelltire.com/"
+street: Idaho Street
+housenumber: "1825"
+phone: +1 (775) 738-2161
+opening_hours: Mo-Fr 07:30-17:00
+website: https://retail.purcelltire.com/

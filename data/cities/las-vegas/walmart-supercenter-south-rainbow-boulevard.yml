@@ -1,11 +1,11 @@
 id: 689320942
-type: way
+type: node
 latitude: 36.1227
 longitude: -115.24583
 postcode: "89103"
 city: Las Vegas
-street: "South Rainbow Boulevard"
-housenumber: 3615
-phone: "+1 702-367-9999"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1584/las-vegas-nv/https://www.walmart.com/store/1584-las-vegas-nv"
+street: South Rainbow Boulevard
+housenumber: "3615"
+phone: +1 702-367-9999
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1584/las-vegas-nv/https://www.walmart.com/store/1584-las-vegas-nv

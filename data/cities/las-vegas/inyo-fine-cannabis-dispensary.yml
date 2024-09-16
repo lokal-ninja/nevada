@@ -4,8 +4,8 @@ latitude: 36.14376
 longitude: -115.13569
 postcode: "89109"
 city: Las Vegas
-street: "South Maryland Parkway"
-housenumber: 2520
-phone: "+1-702-707-8888"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-18:00"
-website: "https://inyolasvegas.com/"
+street: South Maryland Parkway
+housenumber: "2520"
+phone: +1-702-707-8888
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-18:00
+website: https://inyolasvegas.com/

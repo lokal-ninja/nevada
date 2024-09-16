@@ -1,11 +1,11 @@
 id: 385795214
-type: way
+type: node
 latitude: 39.46258
 longitude: -119.78243
 postcode: "89511"
 city: Reno
-street: "South Virginia Street"
-housenumber: 7063
-phone: "(775) 800-5704"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.lithiarenovw.com/"
+street: South Virginia Street
+housenumber: "7063"
+phone: (775) 800-5704
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.lithiarenovw.com/

@@ -4,8 +4,8 @@ latitude: 39.55795
 longitude: -119.7062
 postcode: "89434"
 city: Sparks
-street: "Vista Boulevard"
-housenumber: 2995
-phone: "(775) 626-4888"
-opening_hours: "Mo-Fr 05:00-24:00, Sa 06:00-24:00, Su 06:00-23:00"
+street: Vista Boulevard
+housenumber: "2995"
+phone: (775) 626-4888
+opening_hours: Mo-Fr 05:00-24:00, Sa 06:00-24:00, Su 06:00-23:00
 website: ""

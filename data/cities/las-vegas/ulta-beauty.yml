@@ -4,8 +4,8 @@ latitude: 36.06787
 longitude: -115.17442
 postcode: "89119"
 city: Las Vegas
-street: "Las Vegas Boulevard South"
-housenumber: 6689
-phone: "+1 702-614-1780"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/las-vegas-nv-1254"
+street: Las Vegas Boulevard South
+housenumber: "6689"
+phone: +1 702-614-1780
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/las-vegas-nv-1254

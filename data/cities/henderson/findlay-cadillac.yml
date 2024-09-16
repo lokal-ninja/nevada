@@ -1,11 +1,11 @@
 id: 551361134
-type: way
+type: node
 latitude: 36.04459
 longitude: -115.02872
 postcode: "89014"
 city: Henderson
-street: "Auto Show Drive"
-housenumber: 993
-phone: "702-545-6781"
+street: Auto Show Drive
+housenumber: "993"
+phone: 702-545-6781
 opening_hours: ""
-website: "https://www.findlaycadillac.com/"
+website: https://www.findlaycadillac.com/

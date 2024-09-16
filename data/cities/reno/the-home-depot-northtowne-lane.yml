@@ -1,11 +1,11 @@
 id: 551526815
-type: way
+type: node
 latitude: 39.55699
 longitude: -119.78526
 postcode: "89512"
 city: Reno
-street: "Northtowne Lane"
-housenumber: 2955
-phone: "+1 775-674-2900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/n-reno/nv/reno/89512/3304"
+street: Northtowne Lane
+housenumber: "2955"
+phone: +1 775-674-2900
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/n-reno/nv/reno/89512/3304

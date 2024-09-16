@@ -1,11 +1,11 @@
 id: 942279452
-type: way
+type: node
 latitude: 39.55551
 longitude: -119.71961
 postcode: "89434"
 city: Sparks
-street: "Baring Boulevard"
-housenumber: 1299
-phone: "775-323-2750"
-opening_hours: "Mo-Su 09:00-18:00"
+street: Baring Boulevard
+housenumber: "1299"
+phone: 775-323-2750
+opening_hours: Mo-Su 09:00-18:00
 website: ""

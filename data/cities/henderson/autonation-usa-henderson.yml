@@ -1,11 +1,11 @@
 id: 822370060
-type: way
+type: node
 latitude: 36.05483
 longitude: -115.02783
 postcode: "89014"
 city: Henderson
-street: "North Gibson Road"
-housenumber: 380
-phone: "725-400-4001"
+street: North Gibson Road
+housenumber: "380"
+phone: 725-400-4001
 opening_hours: ""
-website: "https://www.autonation.com/dealers/usa-henderson-nv-89104"
+website: https://www.autonation.com/dealers/usa-henderson-nv-89104

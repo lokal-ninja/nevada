@@ -4,8 +4,8 @@ latitude: 40.84731
 longitude: -115.7472
 postcode: "89801"
 city: Elko
-street: "Idaho Street"
-housenumber: 2002
-phone: "+1 (775) 777-0992"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.americanhighvoltage.com/"
+street: Idaho Street
+housenumber: "2002"
+phone: +1 (775) 777-0992
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.americanhighvoltage.com/

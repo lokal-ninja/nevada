@@ -1,11 +1,11 @@
 id: 551361137
-type: way
+type: node
 latitude: 36.04716
 longitude: -115.02817
 postcode: "89014"
 city: Henderson
-street: "North Gibson Road"
-housenumber: 260
-phone: "702-567-8000"
+street: North Gibson Road
+housenumber: "260"
+phone: 702-567-8000
 opening_hours: ""
-website: "https://www.towbinkia.com/"
+website: https://www.towbinkia.com/

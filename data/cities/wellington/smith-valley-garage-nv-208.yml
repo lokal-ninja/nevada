@@ -1,11 +1,11 @@
 id: 955905007
-type: way
+type: node
 latitude: 38.75732
 longitude: -119.37766
 postcode: "89444"
 city: Wellington
-street: "NV 208"
-housenumber: 2828
+street: NV 208
+housenumber: "2828"
 phone: ""
 opening_hours: ""
 website: ""

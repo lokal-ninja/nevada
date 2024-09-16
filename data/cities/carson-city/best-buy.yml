@@ -1,11 +1,11 @@
 id: 242317233
-type: way
+type: node
 latitude: 39.10745
 longitude: -119.77605
 postcode: "89705"
 city: Carson City
-street: "Topsy Lane"
-housenumber: 911
-phone: "+1 775-267-3523"
+street: Topsy Lane
+housenumber: "911"
+phone: +1 775-267-3523
 opening_hours: ""
-website: "https://stores.bestbuy.com/nv/carson-city/911-topsy-ln-850.html"
+website: https://stores.bestbuy.com/nv/carson-city/911-topsy-ln-850.html

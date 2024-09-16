@@ -1,11 +1,11 @@
 id: 376921633
-type: way
+type: node
 latitude: 36.10066
 longitude: -115.07544
 postcode: ""
 city: Las Vegas
-street: "East Tropicana Avenue"
-housenumber: 4500
+street: East Tropicana Avenue
+housenumber: "4500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 575279139
-type: way
+type: node
 latitude: 36.09322
 longitude: -115.20884
 postcode: "89118"
 city: Las Vegas
-street: "South Decatur Boulevard"
-housenumber: 5325
+street: South Decatur Boulevard
+housenumber: "5325"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 575789983
-type: way
+type: node
 latitude: 36.06217
 longitude: -115.04686
 postcode: "89014"
 city: Henderson
-street: "West Sunset Road"
-housenumber: 1419
-phone: "702-436-0268"
+street: West Sunset Road
+housenumber: "1419"
+phone: 702-436-0268
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nv/henderson/autoparts-4600.html"
+website: https://locations.oreillyauto.com/nv/henderson/autoparts-4600.html

@@ -1,11 +1,11 @@
 id: 822370057
-type: way
+type: node
 latitude: 36.04618
 longitude: -115.01883
 postcode: "89011"
 city: Henderson
-street: "Eastgate Road"
-housenumber: 7760
-phone: "702-955-5555"
+street: Eastgate Road
+housenumber: "7760"
+phone: 702-955-5555
 opening_hours: ""
-website: "http://findlaymazda.com/"
+website: http://findlaymazda.com/

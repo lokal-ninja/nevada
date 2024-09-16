@@ -1,11 +1,11 @@
 id: 1183062719
-type: way
+type: node
 latitude: 35.99846
 longitude: -115.18452
 postcode: "89141"
 city: Las Vegas
-street: "West Cactus Avenue"
-housenumber: 3265
-phone: "+1-702-476-0310"
+street: West Cactus Avenue
+housenumber: "3265"
+phone: +1-702-476-0310
 opening_hours: ""
 website: ""

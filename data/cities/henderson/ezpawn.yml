@@ -1,11 +1,11 @@
 id: 208802945
-type: way
+type: node
 latitude: 36.01238
 longitude: -114.99218
 postcode: "89012"
 city: Henderson
-street: "West Horizon Ridge Parkway"
-housenumber: 36
-phone: "+1-702-648-5200"
-opening_hours: "Mo-Sa 09:00-19:00; Su 12:00-17:00"
-website: "https://ezpawn.com/stores/nv/henderson/36-w-horizon-ridge-pkwy"
+street: West Horizon Ridge Parkway
+housenumber: "36"
+phone: +1-702-648-5200
+opening_hours: Mo-Sa 09:00-19:00; Su 12:00-17:00
+website: https://ezpawn.com/stores/nv/henderson/36-w-horizon-ridge-pkwy

@@ -1,11 +1,11 @@
 id: 822370112
-type: way
+type: node
 latitude: 36.14515
 longitude: -115.24611
 postcode: "89146"
 city: Las Vegas
-street: "West Sahara Avenue"
-housenumber: 6950
+street: West Sahara Avenue
+housenumber: "6950"
 phone: ""
 opening_hours: ""
-website: "https://www.cardinalewaymazdalasvegas.com/"
+website: https://www.cardinalewaymazdalasvegas.com/

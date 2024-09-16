@@ -1,11 +1,11 @@
 id: 702943696
-type: way
+type: node
 latitude: 36.21737
 longitude: -115.99492
 postcode: "89048"
 city: Pahrump
-street: "South Highway 160"
-housenumber: 200
-phone: "+1 775-751-0160"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.albertsons.com/nv/pahrump/200-s-hwy-160.html"
+street: South Highway 160
+housenumber: "200"
+phone: +1 775-751-0160
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.albertsons.com/nv/pahrump/200-s-hwy-160.html

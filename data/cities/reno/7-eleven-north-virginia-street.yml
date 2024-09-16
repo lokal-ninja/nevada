@@ -1,11 +1,11 @@
 id: 243612207
-type: way
+type: node
 latitude: 39.54797
 longitude: -119.82179
 postcode: "89503"
 city: Reno
-street: "North Virginia Street"
-housenumber: 1665
-phone: "+1 775-323-7011"
+street: North Virginia Street
+housenumber: "1665"
+phone: +1 775-323-7011
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nv/reno/1665-north-virginia-24461"
+website: https://www.7-eleven.com/locations/nv/reno/1665-north-virginia-24461

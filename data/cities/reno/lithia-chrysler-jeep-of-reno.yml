@@ -1,11 +1,11 @@
 id: 493743830
-type: way
+type: node
 latitude: 39.51816
 longitude: -119.77275
 postcode: "89502"
 city: Reno
-street: "Mill Street"
-housenumber: 3223
-phone: "775-501-8593"
-opening_hours: "Mo-Sa 08:30-19:00; Su 10:00-18:00"
-website: "https://www.lithiachryslerreno.com/"
+street: Mill Street
+housenumber: "3223"
+phone: 775-501-8593
+opening_hours: Mo-Sa 08:30-19:00; Su 10:00-18:00
+website: https://www.lithiachryslerreno.com/

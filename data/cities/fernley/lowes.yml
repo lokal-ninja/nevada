@@ -1,11 +1,11 @@
 id: 520437357
-type: way
+type: node
 latitude: 39.61416
 longitude: -119.21073
 postcode: "89408"
 city: Fernley
-street: "Stanley Drive East"
-housenumber: 375
-phone: "+1 775-980-4000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nv-fernley/2661"
+street: Stanley Drive East
+housenumber: "375"
+phone: +1 775-980-4000
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nv-fernley/2661

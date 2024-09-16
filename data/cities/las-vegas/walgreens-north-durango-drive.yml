@@ -1,11 +1,11 @@
 id: 967410691
-type: way
+type: node
 latitude: 36.30189
 longitude: -115.28281
 postcode: "89131"
 city: Las Vegas
-street: "North Durango Drive"
-housenumber: 7755
+street: North Durango Drive
+housenumber: "7755"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7755+n+durango+dr-las+vegas-nv-89131/id=7864"
+website: https://www.walgreens.com/locator/walgreens-7755+n+durango+dr-las+vegas-nv-89131/id=7864

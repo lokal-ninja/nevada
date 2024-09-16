@@ -1,11 +1,11 @@
 id: 537085144
-type: way
+type: node
 latitude: 36.1611
 longitude: -115.13498
 postcode: "89101"
 city: Las Vegas
-street: "South Rue 13"
-housenumber: 431
-phone: "+1 702-471-0178"
+street: South Rue 13
+housenumber: "431"
+phone: +1 702-471-0178
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nv/las-vegas/431-rue-13-13698"
+website: https://www.7-eleven.com/locations/nv/las-vegas/431-rue-13-13698

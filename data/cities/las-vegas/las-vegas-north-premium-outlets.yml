@@ -1,11 +1,11 @@
 id: 130590856
-type: way
+type: node
 latitude: 36.16059
 longitude: -115.15965
 postcode: "89106"
 city: Las Vegas
-street: "South Grand Central Parkway"
-housenumber: 875
-phone: "+1 702 474 7500"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
+street: South Grand Central Parkway
+housenumber: "875"
+phone: +1 702 474 7500
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
 website: ""

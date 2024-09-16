@@ -4,8 +4,8 @@ latitude: 36.16782
 longitude: -115.14034
 postcode: "89101"
 city: Las Vegas
-street: "South 6th Street"
-housenumber: 124
-phone: "+1 702-331-6888"
-opening_hours: "08:00-15:00"
+street: South 6th Street
+housenumber: "124"
+phone: +1 702-331-6888
+opening_hours: 08:00-15:00
 website: ""

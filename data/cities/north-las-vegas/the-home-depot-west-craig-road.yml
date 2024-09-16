@@ -1,11 +1,11 @@
 id: 1254189112
-type: way
+type: node
 latitude: 36.23796
 longitude: -115.1594
 postcode: "89032"
 city: North Las Vegas
-street: "West Craig Road"
-housenumber: 1275
-phone: "+1 702-642-2600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/N-Las-Vegas/NV/North-Las-Vegas/89032/3307"
+street: West Craig Road
+housenumber: "1275"
+phone: +1 702-642-2600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/N-Las-Vegas/NV/North-Las-Vegas/89032/3307

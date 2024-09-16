@@ -1,11 +1,11 @@
 id: 972131505
-type: way
+type: node
 latitude: 36.80472
 longitude: -114.07514
 postcode: "89027"
 city: Mesquite
-street: "West Mesquite Boulevard"
-housenumber: 355
+street: West Mesquite Boulevard
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

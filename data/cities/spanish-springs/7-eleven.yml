@@ -1,11 +1,11 @@
 id: 579767763
-type: way
+type: node
 latitude: 39.63863
 longitude: -119.7129
 postcode: "89436"
 city: Spanish Springs
-street: "Eagle Canyon Drive"
-housenumber: 15
-phone: "775-425-1711"
-opening_hours: "24/7"
+street: Eagle Canyon Drive
+housenumber: "15"
+phone: 775-425-1711
+opening_hours: 24/7
 website: ""

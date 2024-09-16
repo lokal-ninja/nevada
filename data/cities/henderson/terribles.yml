@@ -1,11 +1,11 @@
 id: 551501440
-type: way
+type: node
 latitude: 36.06473
 longitude: -115.03694
 postcode: "89014"
 city: Henderson
-street: "Marks Street"
-housenumber: 601
-phone: "702-456-0258"
+street: Marks Street
+housenumber: "601"
+phone: 702-456-0258
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 481148042
-type: way
+type: node
 latitude: 39.57038
 longitude: -119.8275
 postcode: "89503"
 city: Reno
-street: "Bailey Drive"
-housenumber: 75
+street: Bailey Drive
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

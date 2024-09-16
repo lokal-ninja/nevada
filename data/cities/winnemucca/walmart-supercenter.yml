@@ -1,11 +1,11 @@
 id: 1097423054
-type: way
+type: node
 latitude: 40.95395
 longitude: -117.74616
 postcode: "89445"
 city: Winnemucca
-street: "Potato Road"
-housenumber: 3010
-phone: "+1 775-625-3777"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2617-winnemucca-nv"
+street: Potato Road
+housenumber: "3010"
+phone: +1 775-625-3777
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2617-winnemucca-nv

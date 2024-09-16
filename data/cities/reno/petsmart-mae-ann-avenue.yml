@@ -1,11 +1,11 @@
 id: 467676980
-type: way
+type: node
 latitude: 39.52959
 longitude: -119.86611
 postcode: "89523"
 city: Reno
-street: "Mae Ann Avenue"
-housenumber: 5110
-phone: "+1 775-787-7833"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nv/reno-store1308.html"
+street: Mae Ann Avenue
+housenumber: "5110"
+phone: +1 775-787-7833
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nv/reno-store1308.html

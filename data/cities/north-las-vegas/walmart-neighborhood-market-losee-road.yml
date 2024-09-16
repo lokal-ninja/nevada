@@ -1,11 +1,11 @@
 id: 689980739
-type: way
+type: node
 latitude: 36.2673
 longitude: -115.1156
 postcode: "89081"
 city: North Las Vegas
-street: "Losee Road"
-housenumber: 5940
-phone: "+1 702-639-1202"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4339/north-las%20vegas-nv/whats-new"
+street: Losee Road
+housenumber: "5940"
+phone: +1 702-639-1202
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4339/north-las%20vegas-nv/whats-new

@@ -1,11 +1,11 @@
 id: 1162174283
-type: way
+type: node
 latitude: 36.10041
 longitude: -115.22465
 postcode: "89103"
 city: Las Vegas
-street: "West Tropicana Avenue"
-housenumber: 5995
-phone: "+1-702-220-3940"
+street: West Tropicana Avenue
+housenumber: "5995"
+phone: +1-702-220-3940
 opening_hours: ""
 website: ""

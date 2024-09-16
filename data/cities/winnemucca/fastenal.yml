@@ -1,11 +1,11 @@
 id: 1097423031
-type: way
+type: node
 latitude: 40.95208
 longitude: -117.74362
 postcode: "89445"
 city: Winnemucca
-street: "Grass Valley Road"
-housenumber: 4630
+street: Grass Valley Road
+housenumber: "4630"
 phone: ""
 opening_hours: ""
 website: ""

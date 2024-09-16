@@ -1,11 +1,11 @@
 id: 565498859
-type: way
+type: node
 latitude: 39.52064
 longitude: -119.9794
 postcode: "89439"
 city: Verdi
-street: "U.S. Highway 40"
-housenumber: 1705
+street: U.S. Highway 40
+housenumber: "1705"
 phone: ""
 opening_hours: ""
 website: ""

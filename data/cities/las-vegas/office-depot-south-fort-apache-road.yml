@@ -4,8 +4,8 @@ latitude: 36.09917
 longitude: -115.29561
 postcode: "89148"
 city: Las Vegas
-street: "South Fort Apache Road"
-housenumber: 4940
-phone: "+1 702-253-1499"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/nv/las-vegas/office-depot-2231"
+street: South Fort Apache Road
+housenumber: "4940"
+phone: +1 702-253-1499
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/nv/las-vegas/office-depot-2231

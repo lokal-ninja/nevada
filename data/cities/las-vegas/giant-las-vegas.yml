@@ -1,11 +1,11 @@
 id: 1306457645
-type: way
+type: node
 latitude: 36.01864
 longitude: -115.27068
 postcode: "89178"
 city: Las Vegas
-street: "S Cimarron Rd"
-housenumber: 9345
+street: S Cimarron Rd
+housenumber: "9345"
 phone: "7028442453"
 opening_hours: ""
 website: ""

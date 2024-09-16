@@ -1,11 +1,11 @@
 id: 545944795
-type: way
+type: node
 latitude: 36.27708
 longitude: -115.14455
 postcode: "89084"
 city: North Las Vegas
-street: "West Centennial Parkway"
-housenumber: 300
+street: West Centennial Parkway
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

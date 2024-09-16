@@ -1,11 +1,11 @@
 id: 225364821
-type: way
+type: node
 latitude: 36.38136
 longitude: -114.89619
 postcode: "89165"
 city: Las Vegas
-street: "Apex Great Basin Way"
-housenumber: 12501
+street: Apex Great Basin Way
+housenumber: "12501"
 phone: ""
 opening_hours: ""
 website: ""

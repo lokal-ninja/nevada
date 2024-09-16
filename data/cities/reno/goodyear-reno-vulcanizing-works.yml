@@ -1,11 +1,11 @@
 id: 402498424
-type: way
+type: node
 latitude: 39.53248
 longitude: -119.8144
 postcode: "89501"
 city: Reno
-street: "North Virginia Street"
-housenumber: 590
+street: North Virginia Street
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

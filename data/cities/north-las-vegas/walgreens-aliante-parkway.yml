@@ -1,11 +1,11 @@
 id: 545963369
-type: way
+type: node
 latitude: 36.27727
 longitude: -115.18091
 postcode: "89084"
 city: North Las Vegas
-street: "Aliante Parkway"
-housenumber: 6435
+street: Aliante Parkway
+housenumber: "6435"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6435+aliante+pkwy-north+las+vegas-nv-89084/id=2590"
+website: https://www.walgreens.com/locator/walgreens-6435+aliante+pkwy-north+las+vegas-nv-89084/id=2590

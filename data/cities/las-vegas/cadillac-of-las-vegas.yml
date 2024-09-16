@@ -1,11 +1,11 @@
 id: 822370062
-type: way
+type: node
 latitude: 36.14411
 longitude: -115.21219
 postcode: "89146"
 city: Las Vegas
-street: "West Sahara Avenue"
-housenumber: 5185
-phone: "855-935-0799"
-opening_hours: "Monday - Saturday 09:00-20:00"
-website: "https://www.cadillaclasvegaswest.com/"
+street: West Sahara Avenue
+housenumber: "5185"
+phone: 855-935-0799
+opening_hours: Monday - Saturday 09:00-20:00
+website: https://www.cadillaclasvegaswest.com/

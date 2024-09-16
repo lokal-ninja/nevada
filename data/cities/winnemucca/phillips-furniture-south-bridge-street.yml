@@ -1,11 +1,11 @@
 id: 1307305149
-type: way
+type: node
 latitude: 40.97408
 longitude: -117.73728
 postcode: "89445"
 city: Winnemucca
-street: "South Bridge Street"
-housenumber: 140
+street: South Bridge Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

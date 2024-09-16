@@ -1,11 +1,11 @@
 id: 429937827
-type: way
+type: node
 latitude: 38.94188
 longitude: -119.75049
 postcode: "89410"
 city: Gardnerville
-street: "US-395"
-housenumber: 1448
+street: US-395
+housenumber: "1448"
 phone: ""
 opening_hours: ""
-website: "http://www.battlebornwine.com/"
+website: http://www.battlebornwine.com/

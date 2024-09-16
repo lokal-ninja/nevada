@@ -1,11 +1,11 @@
 id: 550927909
-type: way
+type: node
 latitude: 36.0045
 longitude: -115.08524
 postcode: "89052"
 city: Henderson
-street: "Green Valley Parkway"
-housenumber: 515
-phone: "+1 702-322-2229"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/nv/henderson/hederson-green-valley/"
+street: Green Valley Parkway
+housenumber: "515"
+phone: +1 702-322-2229
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/nv/henderson/hederson-green-valley/

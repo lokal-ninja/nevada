@@ -1,11 +1,11 @@
 id: 585136701
-type: way
+type: node
 latitude: 36.53817
 longitude: -114.44216
 postcode: "89040"
 city: Moapa Valley
-street: "North Moapa Valley Boulevard"
-housenumber: 350
-phone: "+1-702-397-2312"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-22:00"
+street: North Moapa Valley Boulevard
+housenumber: "350"
+phone: +1-702-397-2312
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-22:00
 website: ""

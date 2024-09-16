@@ -1,11 +1,11 @@
 id: 385795192
-type: way
+type: node
 latitude: 39.4726
 longitude: -119.78676
 postcode: "89502"
 city: Reno
-street: "S Virginia St"
-housenumber: 5890
-phone: "+1 775-825-2555"
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-17:00"
+street: S Virginia St
+housenumber: "5890"
+phone: +1 775-825-2555
+opening_hours: Mo-Sa 08:00-21:00; Su 11:00-17:00
 website: ""

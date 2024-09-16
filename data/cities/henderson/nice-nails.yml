@@ -1,11 +1,11 @@
 id: 1088541122
-type: way
+type: node
 latitude: 36.02064
 longitude: -115.0477
 postcode: "89012"
 city: Henderson
-street: "South Stephanie Street"
-housenumber: 209
+street: South Stephanie Street
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

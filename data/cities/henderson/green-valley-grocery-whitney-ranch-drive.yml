@@ -1,11 +1,11 @@
 id: 1155133728
-type: way
+type: node
 latitude: 36.08143
 longitude: -115.05325
 postcode: "89014"
 city: Henderson
-street: "Whitney Ranch Drive"
-housenumber: 1076
+street: Whitney Ranch Drive
+housenumber: "1076"
 phone: ""
 opening_hours: ""
 website: ""

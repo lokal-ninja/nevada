@@ -1,11 +1,11 @@
 id: 1139057043
-type: way
+type: node
 latitude: 36.27365
 longitude: -115.21081
-postcode: "89130-8001"
+postcode: 89130-8001
 city: Las Vegas
-street: "North Decatur Boulevard"
-housenumber: 6371
-phone: "+1 702-515-8540"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/las-vegas-n-decatur/2569"
+street: North Decatur Boulevard
+housenumber: "6371"
+phone: +1 702-515-8540
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/las-vegas-n-decatur/2569

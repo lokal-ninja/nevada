@@ -1,11 +1,11 @@
 id: 1250692870
-type: way
+type: node
 latitude: 36.08688
 longitude: -115.10189
 postcode: "89102"
 city: Las Vegas
-street: "South Pecos Road"
-housenumber: 5665
+street: South Pecos Road
+housenumber: "5665"
 phone: ""
 opening_hours: ""
 website: ""

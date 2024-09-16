@@ -1,11 +1,11 @@
 id: 254756943
-type: way
+type: node
 latitude: 36.15553
 longitude: -115.08226
 postcode: "89104"
 city: Las Vegas
-street: "North Lamb Boulevard"
-housenumber: 1401
-phone: "+1 702-641-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/E-Las-Vegas/NV/Las-Vegas/89104/3303"
+street: North Lamb Boulevard
+housenumber: "1401"
+phone: +1 702-641-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/E-Las-Vegas/NV/Las-Vegas/89104/3303

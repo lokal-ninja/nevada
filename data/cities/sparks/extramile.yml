@@ -1,11 +1,11 @@
 id: 425204819
-type: way
+type: node
 latitude: 39.6385
 longitude: -119.71064
 postcode: "89441"
 city: Sparks
-street: "La Posada Drive"
-housenumber: 8995
+street: La Posada Drive
+housenumber: "8995"
 phone: ""
 opening_hours: ""
 website: ""

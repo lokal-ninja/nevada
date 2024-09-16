@@ -1,11 +1,11 @@
 id: 668813049
-type: way
+type: node
 latitude: 39.55608
 longitude: -119.7924
 postcode: "89512"
 city: Reno
-street: "North McCarran Boulevard"
-housenumber: 1270
+street: North McCarran Boulevard
+housenumber: "1270"
 phone: ""
 opening_hours: ""
-website: "http://www.safelubeplus.com/"
+website: http://www.safelubeplus.com/

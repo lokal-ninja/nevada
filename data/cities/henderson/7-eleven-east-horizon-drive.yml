@@ -1,11 +1,11 @@
 id: 227749508
-type: way
+type: node
 latitude: 36.01286
 longitude: -114.95442
 postcode: "89015"
 city: Henderson
-street: "East Horizon Drive"
-housenumber: 850
+street: East Horizon Drive
+housenumber: "850"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

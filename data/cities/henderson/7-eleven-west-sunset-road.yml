@@ -1,11 +1,11 @@
 id: 551502624
-type: way
+type: node
 latitude: 36.06444
 longitude: -115.05924
 postcode: "89014"
 city: Henderson
-street: "West Sunset Road"
-housenumber: 1680
-phone: "+1 702-547-0321"
+street: West Sunset Road
+housenumber: "1680"
+phone: +1 702-547-0321
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nv/henderson/1680-w-sunset-rd-39602"
+website: https://www.7-eleven.com/locations/nv/henderson/1680-w-sunset-rd-39602

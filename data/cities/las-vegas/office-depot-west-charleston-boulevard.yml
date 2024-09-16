@@ -4,8 +4,8 @@ latitude: 36.15855
 longitude: -115.20195
 postcode: "89102"
 city: Las Vegas
-street: "West Charleston Boulevard"
-housenumber: 4555
-phone: "+1 702-822-4447"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://www.officedepot.com/storelocator/nv/las-vegas/office-depot-2285"
+street: West Charleston Boulevard
+housenumber: "4555"
+phone: +1 702-822-4447
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00
+website: https://www.officedepot.com/storelocator/nv/las-vegas/office-depot-2285

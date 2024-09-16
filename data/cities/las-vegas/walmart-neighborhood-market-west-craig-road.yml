@@ -1,11 +1,11 @@
 id: 689793540
-type: way
+type: node
 latitude: 36.24075
 longitude: -115.22412
 postcode: "89130"
 city: Las Vegas
-street: "West Craig Road"
-housenumber: 5850
-phone: "+1 702-395-1222"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5258/las-vegas-nv/whats-new"
+street: West Craig Road
+housenumber: "5850"
+phone: +1 702-395-1222
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5258/las-vegas-nv/whats-new

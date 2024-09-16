@@ -1,11 +1,11 @@
 id: 196512328
-type: way
+type: node
 latitude: 36.04101
 longitude: -115.19417
 postcode: "89139"
 city: Las Vegas
-street: "Blue Diamond Road"
-housenumber: 4000
-phone: "+1 702-361-4992"
-opening_hours: "09:00-23:00"
+street: Blue Diamond Road
+housenumber: "4000"
+phone: +1 702-361-4992
+opening_hours: 09:00-23:00
 website: ""

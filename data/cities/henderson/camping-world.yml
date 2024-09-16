@@ -1,11 +1,11 @@
 id: 221438814
-type: way
+type: node
 latitude: 36.01339
 longitude: -114.951
 postcode: "89015"
 city: Henderson
-street: "South Boulder Highway"
-housenumber: 1600
+street: South Boulder Highway
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 36.12728
 longitude: -115.17368
 postcode: "89109"
 city: Las Vegas
-street: "Fashion Show Drive"
-housenumber: 3200
+street: Fashion Show Drive
+housenumber: "3200"
 phone: "+17027311733"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.gamestop.com/store/us/nv/las-vegas/4285/fashion-show-mall-gamestop"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.gamestop.com/store/us/nv/las-vegas/4285/fashion-show-mall-gamestop

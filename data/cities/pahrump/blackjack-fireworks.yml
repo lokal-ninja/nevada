@@ -1,11 +1,11 @@
 id: 975564160
-type: way
+type: node
 latitude: 36.20256
 longitude: -115.97629
 postcode: "89048"
 city: Pahrump
-street: "NV-160"
-housenumber: 1181
+street: NV-160
+housenumber: "1181"
 phone: ""
 opening_hours: ""
 website: ""

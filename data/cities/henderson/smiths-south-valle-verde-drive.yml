@@ -1,11 +1,11 @@
 id: 202777842
-type: way
+type: node
 latitude: 36.02619
 longitude: -115.06442
 postcode: "89012"
 city: Henderson
-street: "South Valle Verde Drive"
-housenumber: 55
-phone: "+1 702-837-6112"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/henderson/paseo-verde/706/00366"
+street: South Valle Verde Drive
+housenumber: "55"
+phone: +1 702-837-6112
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/henderson/paseo-verde/706/00366

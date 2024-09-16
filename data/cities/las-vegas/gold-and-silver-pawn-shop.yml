@@ -1,11 +1,11 @@
 id: 228527745
-type: way
+type: node
 latitude: 36.16161
 longitude: -115.14547
 postcode: ""
 city: Las Vegas
-street: "South Las Vegas Boulevard"
-housenumber: 713
+street: South Las Vegas Boulevard
+housenumber: "713"
 phone: ""
 opening_hours: ""
-website: "https://gspawn.com/"
+website: https://gspawn.com/

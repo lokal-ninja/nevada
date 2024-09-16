@@ -1,11 +1,11 @@
 id: 857261860
-type: way
+type: node
 latitude: 39.25884
 longitude: -114.85828
 postcode: "89301"
 city: Ely
-street: "Avenue F"
-housenumber: 1625
+street: Avenue F
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

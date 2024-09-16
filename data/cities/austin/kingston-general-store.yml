@@ -1,11 +1,11 @@
 id: 417063173
-type: way
+type: node
 latitude: 39.20663
 longitude: -117.09092
 postcode: "89310"
 city: Austin
-street: "Sunny Way"
-housenumber: 304
-phone: "+1 775-964-2400"
+street: Sunny Way
+housenumber: "304"
+phone: +1 775-964-2400
 opening_hours: ""
 website: ""

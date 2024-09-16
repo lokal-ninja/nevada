@@ -1,11 +1,11 @@
 id: 208384176
-type: way
+type: node
 latitude: 36.25816
 longitude: -115.24793
 postcode: "89130"
 city: Las Vegas
-street: "Drexel Road"
-housenumber: 5445
+street: Drexel Road
+housenumber: "5445"
 phone: ""
 opening_hours: ""
-website: "https://www.teamfordlasvegas.com/"
+website: https://www.teamfordlasvegas.com/

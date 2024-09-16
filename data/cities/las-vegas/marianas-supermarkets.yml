@@ -1,11 +1,11 @@
 id: 764088498
-type: way
+type: node
 latitude: 36.14357
 longitude: -115.19019
-postcode: "89102-5870"
+postcode: 89102-5870
 city: Las Vegas
-street: "West Sahara Avenue"
-housenumber: 3631
-phone: "+1-702-222-9322"
-opening_hours: "06:00-23:00"
-website: "https://www.marianasmarkets.com/"
+street: West Sahara Avenue
+housenumber: "3631"
+phone: +1-702-222-9322
+opening_hours: 06:00-23:00
+website: https://www.marianasmarkets.com/

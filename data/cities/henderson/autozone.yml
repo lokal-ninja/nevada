@@ -1,11 +1,11 @@
 id: 555455594
-type: way
+type: node
 latitude: 36.04485
 longitude: -115.0471
 postcode: "89074"
 city: Henderson
-street: "North Stephanie Street"
-housenumber: 249
-phone: "702-473-7500"
+street: North Stephanie Street
+housenumber: "249"
+phone: 702-473-7500
 opening_hours: ""
-website: "https://www.autozone.com/locations/nv/henderson/249-n-stephanie-st.html"
+website: https://www.autozone.com/locations/nv/henderson/249-n-stephanie-st.html

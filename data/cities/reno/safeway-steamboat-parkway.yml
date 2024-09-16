@@ -1,11 +1,11 @@
 id: 1118746004
-type: way
+type: node
 latitude: 39.42543
 longitude: -119.7377
 postcode: "89521"
 city: Reno
-street: "Steamboat Parkway"
-housenumber: 1031
-phone: "+1 775-332-0910"
+street: Steamboat Parkway
+housenumber: "1031"
+phone: +1 775-332-0910
 opening_hours: ""
-website: "https://local.safeway.com/safeway/nv/reno/1031-steamboat-pkwy.html"
+website: https://local.safeway.com/safeway/nv/reno/1031-steamboat-pkwy.html

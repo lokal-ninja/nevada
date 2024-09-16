@@ -1,11 +1,11 @@
 id: 574568931
-type: way
+type: node
 latitude: 39.4594
 longitude: -119.77489
 postcode: "89511"
 city: Reno
-street: "Colbert Drive"
-housenumber: 7590
+street: Colbert Drive
+housenumber: "7590"
 phone: ""
 opening_hours: ""
 website: ""

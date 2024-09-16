@@ -1,11 +1,11 @@
 id: 555028884
-type: way
+type: node
 latitude: 36.04247
 longitude: -115.04619
 postcode: "89074"
 city: Henderson
-street: "American Pacific Drive"
-housenumber: 1390
-phone: "702-214-2097"
+street: American Pacific Drive
+housenumber: "1390"
+phone: 702-214-2097
 opening_hours: ""
 website: ""

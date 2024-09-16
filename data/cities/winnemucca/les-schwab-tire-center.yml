@@ -1,11 +1,11 @@
 id: 1099977533
-type: way
+type: node
 latitude: 40.95956
 longitude: -117.74326
 postcode: "89445"
 city: Winnemucca
-street: "Fountain Way"
-housenumber: 3290
+street: Fountain Way
+housenumber: "3290"
 phone: ""
 opening_hours: ""
 website: ""

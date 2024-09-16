@@ -1,11 +1,11 @@
 id: 1017280075
-type: way
+type: node
 latitude: 35.97297
 longitude: -114.8483
 postcode: "89005"
 city: Boulder City
-street: "Boulder City Parkway"
-housenumber: 1108
+street: Boulder City Parkway
+housenumber: "1108"
 phone: ""
 opening_hours: ""
 website: ""

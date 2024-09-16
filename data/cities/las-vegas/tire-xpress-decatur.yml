@@ -1,11 +1,11 @@
 id: 1000721797
-type: way
+type: node
 latitude: 36.1689
 longitude: -115.20503
-postcode: "89107-2803"
+postcode: 89107-2803
 city: Las Vegas
-street: "South Decatur Boulevard"
-housenumber: 327
-phone: "+1-702-476-5313"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.thetirexpress.com/Contact/Find-Us/Mode/2/327-S-Decatur-Las-Vegas-NV-89107/details"
+street: South Decatur Boulevard
+housenumber: "327"
+phone: +1-702-476-5313
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.thetirexpress.com/Contact/Find-Us/Mode/2/327-S-Decatur-Las-Vegas-NV-89107/details

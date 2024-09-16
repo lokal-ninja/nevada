@@ -1,11 +1,11 @@
 id: 554754059
-type: way
+type: node
 latitude: 36.02163
 longitude: -115.1205
 postcode: "89123"
 city: Las Vegas
-street: "East Serene Avenue"
-housenumber: 2340
-phone: "+1 702-914-0500"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/nv/lasvegas/pet-supplies-lasvegas-nv-531.html"
+street: East Serene Avenue
+housenumber: "2340"
+phone: +1 702-914-0500
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/nv/lasvegas/pet-supplies-lasvegas-nv-531.html

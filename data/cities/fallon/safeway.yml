@@ -1,11 +1,11 @@
 id: 264870882
-type: way
+type: node
 latitude: 39.47742
 longitude: -118.78697
 postcode: "89406"
 city: Fallon
-street: "West Williams Avenue"
-housenumber: 890
-phone: "+1 775-428-2330"
+street: West Williams Avenue
+housenumber: "890"
+phone: +1 775-428-2330
 opening_hours: ""
-website: "https://local.safeway.com/safeway/nv/fallon/890-w-williams-ave.html"
+website: https://local.safeway.com/safeway/nv/fallon/890-w-williams-ave.html

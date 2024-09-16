@@ -1,11 +1,11 @@
 id: 788751773
-type: way
+type: node
 latitude: 39.13579
 longitude: -119.76828
 postcode: "89701"
 city: Carson City
-street: "South Carson Street"
-housenumber: 3479
+street: South Carson Street
+housenumber: "3479"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nv/carsoncity/autoparts-3207.html"
+website: https://locations.oreillyauto.com/nv/carsoncity/autoparts-3207.html

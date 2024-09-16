@@ -1,11 +1,11 @@
 id: 1089979170
-type: way
+type: node
 latitude: 36.80262
 longitude: -114.09342
 postcode: "89027"
 city: Mesquite
-street: "Riverside Road"
-housenumber: 30
-phone: "+1-877-619-8041;+1-725-213-7333"
+street: Riverside Road
+housenumber: "30"
+phone: +1-877-619-8041;+1-725-213-7333
 opening_hours: ""
 website: ""

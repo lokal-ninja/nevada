@@ -1,11 +1,11 @@
 id: 447595647
-type: way
+type: node
 latitude: 39.51366
 longitude: -119.80691
 postcode: "89502"
 city: Reno
-street: "South Virginia Street"
-housenumber: 1080
+street: South Virginia Street
+housenumber: "1080"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off
 website: ""

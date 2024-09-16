@@ -1,11 +1,11 @@
 id: 955138691
-type: way
+type: node
 latitude: 40.8452
 longitude: -115.74697
 postcode: "89801"
 city: Elko
-street: "Manzanita Lane"
-housenumber: 1859
-phone: "+1 (775) 340-8790"
-opening_hours: "Mo-Sa 08:00-20:00, Su 10:00-16:00"
-website: "http://manzanitaselfstorage.net/"
+street: Manzanita Lane
+housenumber: "1859"
+phone: +1 (775) 340-8790
+opening_hours: Mo-Sa 08:00-20:00, Su 10:00-16:00
+website: http://manzanitaselfstorage.net/

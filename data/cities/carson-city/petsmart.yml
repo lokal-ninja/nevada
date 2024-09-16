@@ -1,11 +1,11 @@
 id: 446224967
-type: way
+type: node
 latitude: 39.15189
 longitude: -119.7657
 postcode: "89701"
 city: Carson City
-street: "Fairview Drive"
-housenumber: 250
-phone: "+1 775-841-9200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nv/carson-city-store1113.html"
+street: Fairview Drive
+housenumber: "250"
+phone: +1 775-841-9200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nv/carson-city-store1113.html

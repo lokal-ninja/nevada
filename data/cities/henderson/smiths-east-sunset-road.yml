@@ -1,11 +1,11 @@
 id: 551577998
-type: way
+type: node
 latitude: 36.0725
 longitude: -115.07408
 postcode: "89014"
 city: Henderson
-street: "East Sunset Road"
-housenumber: 4600
-phone: "+1 702-451-0466"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nv/henderson/sunset-mountain-plaza/706/00350"
+street: East Sunset Road
+housenumber: "4600"
+phone: +1 702-451-0466
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nv/henderson/sunset-mountain-plaza/706/00350

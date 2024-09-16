@@ -1,11 +1,11 @@
 id: 172577657
-type: way
+type: node
 latitude: 36.08136
 longitude: -115.1228
 postcode: "89119"
 city: Las Vegas
-street: "South Eastern Avenue"
-housenumber: 6005
-phone: "+1 702-451-8900"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1560/las-vegas-nv/whats-new"
+street: South Eastern Avenue
+housenumber: "6005"
+phone: +1 702-451-8900
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1560/las-vegas-nv/whats-new

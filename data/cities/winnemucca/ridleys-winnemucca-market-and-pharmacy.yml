@@ -1,11 +1,11 @@
 id: 1099941169
-type: way
+type: node
 latitude: 40.96506
 longitude: -117.74202
 postcode: ""
 city: Winnemucca
-street: "West 4th Street"
-housenumber: 1125
+street: West 4th Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

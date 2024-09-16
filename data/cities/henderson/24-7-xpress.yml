@@ -1,11 +1,11 @@
 id: 555455591
-type: way
+type: node
 latitude: 36.04228
 longitude: -115.04728
 postcode: "89074"
 city: Henderson
-street: "North Stephanie Street"
-housenumber: 201
-phone: "702-932-3210"
+street: North Stephanie Street
+housenumber: "201"
+phone: 702-932-3210
 opening_hours: ""
 website: ""

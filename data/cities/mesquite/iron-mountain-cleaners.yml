@@ -1,11 +1,11 @@
 id: 419596642
-type: way
+type: node
 latitude: 36.8079
 longitude: -114.10896
 postcode: "89027"
 city: Mesquite
-street: "West Pioneer Boulevard"
-housenumber: 1135
+street: West Pioneer Boulevard
+housenumber: "1135"
 phone: ""
 opening_hours: ""
 website: ""

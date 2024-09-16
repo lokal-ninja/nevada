@@ -1,11 +1,11 @@
 id: 242317231
-type: way
+type: node
 latitude: 39.11749
 longitude: -119.77714
 postcode: "89705"
 city: Carson City
-street: "Old Clear Creek Road"
-housenumber: 700
-phone: "+1 775-881-2503"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/carson-city-nv-127.html"
+street: Old Clear Creek Road
+housenumber: "700"
+phone: +1 775-881-2503
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/carson-city-nv-127.html

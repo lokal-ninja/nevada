@@ -1,11 +1,11 @@
 id: 1088984697
-type: way
+type: node
 latitude: 36.0293
 longitude: -115.06086
 postcode: "89074"
 city: Henderson
-street: "North Valle Verde Drive"
-housenumber: 30
-phone: "+1 702-434-0492"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/nv/henderson-667.shtml"
+street: North Valle Verde Drive
+housenumber: "30"
+phone: +1 702-434-0492
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/nv/henderson-667.shtml

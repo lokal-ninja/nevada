@@ -4,8 +4,8 @@ latitude: 37.71288
 longitude: -117.23513
 postcode: "89013"
 city: Goldfield
-street: "North Main Street"
-housenumber: 700
-phone: "775-277-9284"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://goldfieldfireworks.com"
+street: North Main Street
+housenumber: "700"
+phone: 775-277-9284
+opening_hours: Mo-Su 09:00-19:00
+website: https://goldfieldfireworks.com

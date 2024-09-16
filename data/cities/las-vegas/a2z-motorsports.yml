@@ -4,8 +4,8 @@ latitude: 36.05614
 longitude: -115.24658
 postcode: "89113"
 city: Las Vegas
-street: "West Warm Springs Road"
-housenumber: #130
-phone: "702-222-0907"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-17:00"
-website: "http://www.scooternation.com"
+street: West Warm Springs Road
+housenumber: '#130'
+phone: 702-222-0907
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-17:00
+website: http://www.scooternation.com

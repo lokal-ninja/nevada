@@ -1,11 +1,11 @@
 id: 1299911804
-type: way
+type: node
 latitude: 40.96115
 longitude: -117.735
 postcode: "89445"
 city: Winnemucca
-street: "Grass Valley Road"
-housenumber: 1023
+street: Grass Valley Road
+housenumber: "1023"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/nv/winnemucca/1023-grass-valley-rd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/nv/winnemucca/1023-grass-valley-rd

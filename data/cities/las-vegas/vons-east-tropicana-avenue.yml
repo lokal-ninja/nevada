@@ -1,11 +1,11 @@
 id: 129735375
-type: way
+type: node
 latitude: 36.09981
 longitude: -115.13812
 postcode: "89119"
 city: Las Vegas
-street: "East Tropicana Avenue"
-housenumber: 1131
-phone: "+1 702-798-8697"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.vons.com/nv/las-vegas/1131-e-tropicana-ave.html"
+street: East Tropicana Avenue
+housenumber: "1131"
+phone: +1 702-798-8697
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.vons.com/nv/las-vegas/1131-e-tropicana-ave.html

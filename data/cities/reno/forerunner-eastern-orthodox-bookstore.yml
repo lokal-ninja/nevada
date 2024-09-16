@@ -1,11 +1,11 @@
 id: 1000656002
-type: way
+type: node
 latitude: 39.51827
 longitude: -119.81235
 postcode: ""
 city: Reno
-street: "Plumas Street"
-housenumber: 644
+street: Plumas Street
+housenumber: "644"
 phone: ""
 opening_hours: ""
 website: ""

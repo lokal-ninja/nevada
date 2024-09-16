@@ -1,11 +1,11 @@
 id: 484781814
-type: way
+type: node
 latitude: 39.53148
 longitude: -119.80747
 postcode: "89512"
 city: Reno
-street: "East 4th Street"
-housenumber: 507
+street: East 4th Street
+housenumber: "507"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.62594
 longitude: -119.88266
 postcode: "89506"
 city: Reno
-street: "Stead Blvd #6"
-housenumber: 10603
-phone: "+1-775-677-8899"
+street: 'Stead Blvd #6'
+housenumber: "10603"
+phone: +1-775-677-8899
 opening_hours: ""
-website: "http://perfect4unv.com"
+website: http://perfect4unv.com

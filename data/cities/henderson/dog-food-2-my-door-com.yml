@@ -1,11 +1,11 @@
 id: 725462745
-type: way
+type: node
 latitude: 36.01828
 longitude: -115.0544
 postcode: "89012"
 city: Henderson
-street: "West Horizon Ridge Parkway"
-housenumber: 1550
+street: West Horizon Ridge Parkway
+housenumber: "1550"
 phone: ""
-opening_hours: "Tu-Th 16:00-21:00; Fr,Sa 16:00-21:30; Su 10:00-14:00"
-website: "https://chefsromakitchen.com/"
+opening_hours: Tu-Th 16:00-21:00; Fr,Sa 16:00-21:30; Su 10:00-14:00
+website: https://chefsromakitchen.com/

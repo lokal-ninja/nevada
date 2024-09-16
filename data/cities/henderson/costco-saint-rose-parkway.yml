@@ -1,11 +1,11 @@
 id: 818524411
-type: way
+type: node
 latitude: 35.9878
 longitude: -115.1371
-postcode: "89052-4570"
+postcode: 89052-4570
 city: Henderson
-street: "Saint Rose Parkway"
-housenumber: 3411
-phone: "+1 702-803-7044"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/sw-henderson-henderson-nv-1320.html"
+street: Saint Rose Parkway
+housenumber: "3411"
+phone: +1 702-803-7044
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/sw-henderson-henderson-nv-1320.html
