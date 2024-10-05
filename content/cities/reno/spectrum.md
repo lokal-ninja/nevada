@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /reno/spectrum/
-shop: electronics
+shop: mobile phone
 ---
