@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /las-vegas/walmart/
-shop: supermarket
+shop: department store
 ---

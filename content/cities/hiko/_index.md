@@ -1,6 +1,6 @@
 ---
 title: Hiko
 url: /hiko/
-latitude: 37.529
-longitude: -115.219
+latitude: 37.533
+longitude: -115.243
 ---
