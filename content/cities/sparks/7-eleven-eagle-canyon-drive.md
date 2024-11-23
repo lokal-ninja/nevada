@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /spanish-springs/7-eleven/
+url: /sparks/7-eleven-eagle-canyon-drive/
 shop: convenience
 ---
