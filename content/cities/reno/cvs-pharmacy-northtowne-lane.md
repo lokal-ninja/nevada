@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /reno/cvs-pharmacy-robb-drive/
+url: /reno/cvs-pharmacy-northtowne-lane/
 shop: chemist
 ---
