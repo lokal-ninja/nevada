@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /reno/oreilly-auto-parts-selmi-drive/
+url: /reno/oreilly-auto-parts-west-7th-street/
 shop: car parts
 ---
