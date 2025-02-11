@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /sparks/ross-north-mccarran-boulevard/
+url: /sparks/ross-los-altos-parkway/
 shop: department store
 ---

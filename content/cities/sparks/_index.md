@@ -1,6 +1,6 @@
 ---
 title: Sparks
 url: /sparks/
-latitude: 39.531
-longitude: -119.722
+latitude: 39.536
+longitude: -119.718
 ---
