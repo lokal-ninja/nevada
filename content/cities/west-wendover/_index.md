@@ -1,6 +1,6 @@
 ---
 title: West Wendover
 url: /west-wendover/
-latitude: 40.74
-longitude: -114.076
+latitude: 40.736
+longitude: -114.058
 ---
