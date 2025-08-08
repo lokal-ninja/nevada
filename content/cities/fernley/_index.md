@@ -1,6 +1,6 @@
 ---
 title: Fernley
 url: /fernley/
-latitude: 39.614
-longitude: -119.211
+latitude: 39.608
+longitude: -119.251
 ---
