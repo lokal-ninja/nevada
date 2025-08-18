@@ -1,6 +1,6 @@
 ---
 title: Round Mountain
 url: /round-mountain/
-latitude: 38.694
-longitude: -117.16
+latitude: 38.693
+longitude: -117.158
 ---
