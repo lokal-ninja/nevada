@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /reno/chevron-robb-drive/
+url: /reno/chevron-north-sierra-street/
 shop: convenience
 ---
