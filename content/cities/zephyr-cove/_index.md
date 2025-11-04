@@ -1,6 +1,6 @@
 ---
 title: Zephyr Cove
 url: /zephyr-cove/
-latitude: 38.987
-longitude: -119.944
+latitude: 38.983
+longitude: -119.941
 ---
