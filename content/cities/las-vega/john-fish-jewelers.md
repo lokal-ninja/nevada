@@ -1,5 +1,5 @@
 ---
 title: "John Fish Jewelers"
-url: /las-vegas/john-fish-jewelers/
+url: /las-vega/john-fish-jewelers/
 shop: jewelry
 ---
