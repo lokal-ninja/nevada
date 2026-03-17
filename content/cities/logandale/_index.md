@@ -1,6 +1,6 @@
 ---
 title: Logandale
 url: /logandale/
-latitude: 36.606
-longitude: -114.484
+latitude: 36.608
+longitude: -114.485
 ---
