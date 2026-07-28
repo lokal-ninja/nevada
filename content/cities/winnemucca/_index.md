@@ -1,6 +1,6 @@
 ---
 title: Winnemucca
 url: /winnemucca/
-latitude: 40.959
-longitude: -117.745
+latitude: 40.965
+longitude: -117.742
 ---
