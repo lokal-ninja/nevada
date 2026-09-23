@@ -1,5 +1,5 @@
 ---
 title: "Shield Storage"
-url: /mesquite/shield-storage-mayan-circle/
+url: /mesquite/shield-storage-riverside-road/
 shop: storage rental
 ---
