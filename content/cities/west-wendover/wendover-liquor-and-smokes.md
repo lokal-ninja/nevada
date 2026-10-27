@@ -1,5 +1,5 @@
 ---
-title: "Wendover Liquor and Smokes"
+title: "Wendover Liquor & Smokes"
 url: /west-wendover/wendover-liquor-and-smokes/
-shop: alcohol
+shop: e-cigarette
 ---
